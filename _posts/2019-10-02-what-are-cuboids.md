@@ -1,6 +1,7 @@
 ---
 title: What are Cuboids?
 author: R.P. de Jonge
+icon: rectangle-landscape
 layout: post
 hide: false
 
