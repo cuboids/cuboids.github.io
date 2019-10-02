@@ -1,5 +1,5 @@
 ---
-title: Reading List
+title: What I'm reading
 subtitle: My favorite book of 2018
 layout: "page"
 icon: fa-book
