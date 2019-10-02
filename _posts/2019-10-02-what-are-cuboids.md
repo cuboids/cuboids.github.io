@@ -1,6 +1,6 @@
 ---
 title: What are Cuboids?
-author: The luminouscuboids author
+author: R.P. de Jonge
 layout: post
 hide: false
 
