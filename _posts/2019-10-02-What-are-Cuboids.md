@@ -3,7 +3,7 @@ title: What are Cuboids?
 author: Robbie
 layout: post
 hide: false
-date: 02-10-19
+
 ---
 
 Cuboids can be considered blog posts. But that doesn't exhaust their meaning. The Oxford English Dictionary entry for "blog" gives:
