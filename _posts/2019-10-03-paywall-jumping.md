@@ -1,6 +1,6 @@
 ---
 Title: Jumping paywalls
-Author: Thr luminouscuboids author
+Author: R.P. de Jonge
 Layout: post
 ---
 Lorem
