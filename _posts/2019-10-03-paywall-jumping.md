@@ -1,6 +1,6 @@
 ---
-Title: Jumping paywalls
-Author: R.P. de Jonge
-Layout: post
+title: Jumping paywalls
+author: R.P. de Jonge
+layout: post
 ---
-Lorem
+Forthcoming. 
