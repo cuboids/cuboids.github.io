@@ -1,16 +1,16 @@
 ---
-title: First Post
-author: Chris
+title: What are Cuboids?
+author: Robbie
 layout: post
 hide: false
 ---
 
-Lorem ipsum dolor sit amet, iusto ridens dictas te sed. Error latine vis et. Ex cum munere definitiones, ne quas debitis contentiones cum, epicurei constituam ea sit. Dicant aeterno dolorum ex eum, qui everti iisque consectetuer ea! Duo in falli similique, nec tritani accusam te. Enim sapientem intellegat te pri, nam at atqui accumsan vituperata.
+Cuboids can be considered blog posts. But that doesn't exhaust their meaning. The Oxford English Dictionary entry for "blog" gives:
 
-Sed id graeci feugiat. No meis summo consequat vel! Albucius phaedrum omittantur eos an, ex sit lorem possim perpetua. Usu et sumo posidonium, ut qui dicat sapientem tincidunt, et has consul oporteat torquatos! In qui fabulas facilisis, justo nonumes an his, quo vidisse nusquam facilisis no. Eam iriure mediocrem suavitate an?
+<blockquote>"A frequently updated website, typically run by a single person and consisting of personal observations arranged in chronological order, excerpts from other sources, hyperlinks to other sites, etc.; an online journal or diary"<br>
+<b>Source</b> "blog, n.". OED Online. September 2019. Oxford University Press.
+</blockquote>
 
-Quo te solum malorum prompta, porro oblique senserit cum et! Pro wisi cetero periculis ei, nam ullum dicit accusam ne, ad quo apeirian principes dissentiunt. An mea mucius vocent iisque? Vel eu altera consetetur, clita perfecto mea ad. Eos in vero ullum regione, ei veniam disputando pro, nam et iuvaret detracto voluptua.
+So far, so good. Yet the general definition above doesn't tell us what kind of blog <i>luminouscuboids</i> wishes to become. The subtitle reads "Dhamma and Life": with <i>luminouscuboids</i> I'd like to partly explore the meaning of "Dhamma" ("Dharma" in Sanskrit) and relate this unpacking to "Life", with which I mean my experience and that of others. This does not mean that the purpose of <i>luminouscuboids</i> includes proselytizing, or its cousin, advertising; it includes neither. Though I have manifold outstanding intellectual and non-intellectual debts, I do not consider myself beholden to any intellectual or non-intellectual system of thought. 
 
-Ad tritani deleniti sit, ne per ubique habemus singulis. Pro at integre alienum mediocritatem, mea ad libris adipisci necessitatibus, nostro constituam sit te. Recusabo oportere et mea, case minimum deleniti no quo, deseruisse conclusionemque vis te. Nam ex iudicabit constituam accommodare, dicam singulis ex eos! Eu mea viderer ceteros repudiandae, id erat voluptatum mea, ut consul omittam convenire quo. Id justo ipsum mei, modus contentiones per et! At mel omnium lucilius instructior, vel quando graeco in, eos docendi periculis eloquentiam ut.
-
-Eam habemus aliquando ut. Id idque virtute antiopam duo, et idque falli incorrupte eos, in sea omnium instructior. Mei ex nostrud moderatius cotidieque, cu sea partiendo euripidis, eam no tollit doming! Has ne facilisi vulputate, aliquando disputationi mel eu. Ex pri diceret delectus intellegam, regione definiebas pro ex.
+One debt worth mentioning is that to Mark Rothko, who's oevre inspired the notion of "luminous cuboids". Unlike a hyperrealist, I do not intend to paint a detailed portrayed of reality. Rather, cuboids intend to shed light one some topic of interest, but preferring brevity over digression, content over style, and perpetual editing over static content. Referenced literature usually contains more details for the interested reader. Indeed, <i>luminouscuboids</i> does not cater to a gratification-seeking audience with a short attention span. Neither does it seek popularity or fame. Rather, it aims to serve the modest goal of "just being there", floating somewhere in the far outskirts of the blogosphere, welcoming any visitor it might receive. With that I hope to have said enough to get started. 
