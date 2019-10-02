@@ -1,6 +1,6 @@
 ---
 title: What are Cuboids?
-author: Robbie
+author: The luminouscuboids author
 layout: post
 hide: false
 
