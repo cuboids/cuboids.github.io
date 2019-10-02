@@ -1,6 +1,6 @@
 ---
 title: Reading List
-subtitle: My favorite book of 2019
+subtitle: My favorite book of 2018
 layout: "page"
 icon: fa-book
 order: 3
