@@ -8,4 +8,4 @@ order: 3
 
 Bhikkhu Anālayo — <i>Satipatthana Meditation: A Practice Guide</i> (Paperback)
 
-(See <a href="https://cuboids.github.io/2019/10/03/how-to-jump-paywalls.html">How to Jump Paywalls</a> to access books listed above for free.)
+(See <a href="https://cuboids.github.io/2019/10/03/how-to-jump-paywalls.html">How to Jump Paywalls</a> to freely access books listed above.)
