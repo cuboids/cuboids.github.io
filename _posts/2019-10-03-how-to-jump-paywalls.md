@@ -4,9 +4,9 @@ author: R.P. de Jonge
 layout: post
 hide: true
 ---
-<p>Intellectual property poses interesting questions regarding its ethical justification, as <a href="https://plato.stanford.edu/entries/intellectual-property/">its entry in the Stanford Encyclopedia of Philosophy</a> shows. I would like to share some techniques for finding the full contents of books and journal articles online. In doing so I firmly suspend value judgements regarding intellectual property. The reader may use these techniques as she sees fit. (Note that the information below could easily be outdated by the time you read this.)</p>
+<p>Intellectual property poses interesting questions regarding its ethical justification. I would like to share some techniques for finding the full contents of books and journal articles online. In doing so I firmly suspend value judgements regarding intellectual property; the reader may use these techniques as she sees fit. (Unfortunately the information has a high risk of getting out of date.)</p>
 
-<p>Somtimes a simple Google search for <pre>[book or article name] filetype:pdf</pre> will work. But often it won't.</p>
+<p>Somtimes a simple Google search for <pre>[book or article name] filetype:pdf</pre> will work. But not always.</p>
 
 <p>Z-library contains, according to its own statistics, close to five million ebooks and over seventy-five million journal articles&mdash;all freely accessible. Its URLs include (a) the redirection page <a href="https://z-lib.org">https://z-lib.org</a>, (b) <a href="https://b-ok.org">https://b-ok.org</a> aor <a href="https://b-ok.xyz">https://b-ok.xyz</a> for ebooks, and (c) <a href="https://booksc.org/">https://booksc.org/</a> or <a href="https://booksc.xyz/">https://booksc.xyz/</a> for articles. Though not necessary, a free account allows users to see past downloads, save books, get personalized recommendations, and set up ZAlerts which give notifications if new books corresponding to the search query become available on Z-library.</p>
 
