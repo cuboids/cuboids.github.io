@@ -6,7 +6,7 @@ layout: post
 
 <p>In <a href="https://cuboids.github.io/2019/10/03/how-to-jump-paywalls.html">the previous post</a> one of us showed how to find (otherwise paywalled) articles and books online. Here we will share one method (out of many) to avoid movie paywalls. This method assumes the watcher is comfortable with double Chinese-English subtitles; non-Chinese speaking viewers may simply ignore the Chinese subs.</p>
 
-<p>First, we recommend using an adblocker such as <a href="http://www.standsapp.org/">Fair Adblocker</a> to prevent accidental clicking any hyperlinks on the websites which host the movies. Optionally, one may wish to use a VPN. Be safe: don't make any accounts.</p>
+<p>First, we recommend using an adblocker such as <a href="http://www.standsapp.org/">Fair Adblocker</a> to prevent accidentally clicking any hyperlinks on the websites which host the movies. Optionally, one may wish to use a VPN. We don't recommend inputting any personal details on the websites below.</p>
 
 <h3>Streaming movies</h3>
 <p>The key words of this method are 在线 (Pinyin: zai'xian), which means "online". You can simply input <pre>[Movie title in English] + 在线</pre> in Google to find websites which host the movie. If you'd like to be more thorough, try <pre>([Movie title in English] OR [Movie name in simplified Chinese]) + 在线</pre> The simplified Chinese name of a movie can be found by finding the movie on Wikipedia. Try <pre>[Movie title in English] + site:zh.wikipedia.org/zh-cn</pre> and copy-pasting the Chinese movie title. If you want to watch shows, better type the season number in your search, such as 第一季, 第二季 (first season, second season...; the middle character indicates the number; use Google Translate to translate numbers bigger than two).</p>
