@@ -15,3 +15,6 @@ hide: true
 <p>If an article cannot be found on Z-library one might try <a href="https://www.wikiwand.com/en/Sci-Hub">Sci-Hub</a>, now at <a href="https://sci-hub.tw">https://sci-hub.tw</a>. For current mirrors, see <a href="https://whereisscihub.now.sh/">https://whereisscihub.now.sh/</a>.</p>
 
 <p>Let me conclude with some remarks concerning reading ebooks. My go-to tool for file conversions remains <a href="https://cloudconvert.com">CloudConvert</a>: fast, reliable, powerful, and no-nonsense. I use Google Drive and Google Books for saving and reading ebooks (but YMMV). (<b>Statement of non-affiliation: I'm not affiliated with the organizations mentioned in this post</b>)</p>
+
+<h3>Addendum</h3>
+<p>Google Books and Amazon's preview feature can provide access to parts of books. Many older books can be found on archive.org.</p>
