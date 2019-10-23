@@ -4,7 +4,7 @@ author: R.P. de Jonge
 layout: post
 ---
 
-<p>For anyone interested in Buddhism, last week the Buddhist Society of Western Australia resumed streaming their 
+<p>For anyone interested in Buddhism, last week the <a href="https://www.youtube.com/channel/UC6M_EhnSSdTG_SXUp6IAWmQ">Buddhist Society of Western Australia</a> resumed streaming their 
 regular talks and mediation sessions on YouTube (their annual Rains Retreat having finished last week).</p>
 
 <p>Forthcoming (Oct 2019 - Mid-July 2020) are around 37 short meditation sessions (25-30 min) followed by a 45-60 min talk 
