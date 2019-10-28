@@ -15,4 +15,4 @@ Recently there has been some debate about the matter in this field. David Drewes
 <p>Drewes, David. "The Idea of the Historical Buddha." <i>Journal of the International Association of Buddhist Studies</i> 40 (2017): 1-25.<br>
 Hinüber, Oskar von. "The Buddha as a Historical Person." <i>Journal of the International Association of Buddhist Studies</i> 42 (forthcoming).<br>
 Levman, Bryan. "The Historical Buddha: Response to Drewes." <i>Canadian Journal of Buddhist Studies</i> 14 (2019): 25-56.<br>
-Wynne, Alexander. "Did the Buddha exist?." <i>Journal of the Oxford Centre for Buddhist Studies</i> 16 (2019).</p>
+Wynne, Alexander. "Did the Buddha exist?." <i>Journal of the Oxford Centre for Buddhist Studies</i> 16 (2019): 98-148.</p>
