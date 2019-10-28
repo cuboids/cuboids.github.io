@@ -20,6 +20,6 @@ Gombrich, Richard F. 2009. <i>What the Buddha thought</i>. London: Equinox.<br>
 Hinüber, Oskar von. Forthcoming. "The Buddha as a Historical Person." <i>Journal of the International Association of Buddhist Studies</i> 42.<br>
 Levman, Bryan. 2019. "The Historical Buddha: Response to Drewes." <i>Canadian Journal of Buddhist Studies</i> 14: 25-56.  https://thecjbs.org/<br>
 Sujato, Bhikkhu, and Bhikkhu Brahmali. 2015. <i>The Authenticity of the Early Buddhist Texts</i>. Supplement, <i>Journal of the Oxford Centre for Buddhist Studies</i> 5. https://ocbs.org/the-authenticity-of-the-early-buddhist-texts-2/ <br>
-Wynne, Alexander. 2019. "Did the Buddha exist?." <i>Journal of the Oxford Centre for Buddhist Studies</i> 16: 98-148.  http://jocbs.org/index.php/jocbs/article/view/193</p>
+Wynne, Alexander. 2019. "Did the Buddha exist?." <i>Journal of the Oxford Centre for Buddhist Studies</i> 16: 98-148.  https://jocbs.org/index.php/jocbs/article/view/193</p>
 
 <p>Shortened URL: <a href="https://cuboids.page.link/buddha">cuboids.page.link/buddha</a>.</p>
