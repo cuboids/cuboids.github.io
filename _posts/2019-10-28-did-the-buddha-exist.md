@@ -23,6 +23,6 @@ Recently there has been some debate about the matter in this field. David Drewes
 <li>Levman, Bryan. 2019. "The Historical Buddha: Response to Drewes." <i>Canadian Journal of Buddhist Studies</i> 14: 25-56.  <a href="https://thecjbs.org/">https://thecjbs.org/</a>.</li>
 <li> Sujato, Bhikkhu, and Bhikkhu Brahmali. 2015. <i>The Authenticity of the Early Buddhist Texts</i>. Supplement, <i>Journal of the Oxford Centre for Buddhist Studies</i> 5. <a href="https://ocbs.org/the-authenticity-of-the-early-buddhist-texts-2/">https://ocbs.org/the-authenticity-of-the-early-buddhist-texts-2/</a>. </li>
 <li>Wynne, Alexander. 2005. "The historical authenticity of early Buddhist literature: a critical evaluation." <i>Wiener Zeitschrift für die Kunde Südasiens/Vienna Journal of South Asian Studies</i> 49: 35-70. <a href="https://www.jstor.org/stable/24007653">https://www.jstor.org/stable/24007653</a>.</li>
-<li>Wynne, Alexander. 2019. "Did the Buddha exist?." <i>Journal of the Oxford Centre for Buddhist Studies</i> 16: 98-148. <a href="http://jocbs.org/index.php/jocbs/article/view/193">https://jocbs.org/index.php/jocbs/article/view/193</a>.</li></ul></p>
+<li>Wynne, Alexander. 2019. "Did the Buddha exist?" <i>Journal of the Oxford Centre for Buddhist Studies</i> 16: 98-148. <a href="http://jocbs.org/index.php/jocbs/article/view/193">https://jocbs.org/index.php/jocbs/article/view/193</a>.</li></ul></p>
 
 <p>Shortened URL: <a href="https://cuboids.page.link/buddha">cuboids.page.link/buddha</a>.</p>
