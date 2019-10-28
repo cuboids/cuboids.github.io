@@ -14,8 +14,8 @@ Recently there has been some debate about the matter in this field. David Drewes
 <p>I will leave it to the reader to make up their own minds; however, in line with the articles by Wynne, Levman, and von Hinüber, and considering Sujato & Brahmali (2015), in further blog posts I will assume that (<i>i</i>) the Buddha was a historical person and (<i>ii</i>) it is possible to know about his life, e.g. by consulting works such as Gombrich (2009). (See <a href="https://cuboids.page.link/paywalls">cuboids.page.link/paywalls</a> for how to access paywalled articles.) 
 
 <h3>References</h3>
-<p>Dhammadinnā, Bhikkhunī. 2018. "When Womanhood Matters." <i>Religions of South Asia</i> 12 (3): 274-313. https:doi.org/10.1558/rosa.39890 <br>
-Drewes, David. 2017. "The Idea of the Historical Buddha." <i>Journal of the International Association of Buddhist Studies</i> 40: 1-25. https:doi.org/10.2143/JIABS.40.0.3269003 <br>
+<p>Dhammadinnā, Bhikkhunī. 2018. "When Womanhood Matters." <i>Religions of South Asia</i> 12 (3): 274-313. https://doi.org/10.1558/rosa.39890 <br>
+Drewes, David. 2017. "The Idea of the Historical Buddha." <i>Journal of the International Association of Buddhist Studies</i> 40: 1-25. https://doi.org/10.2143/JIABS.40.0.3269003 <br>
 Gombrich, Richard F. 2009. <i>What the Buddha thought</i>. London: Equinox.<br>
 Hinüber, Oskar von. Forthcoming. "The Buddha as a Historical Person." <i>Journal of the International Association of Buddhist Studies</i> 42.<br>
 Levman, Bryan. 2019. "The Historical Buddha: Response to Drewes." <i>Canadian Journal of Buddhist Studies</i> 14: 25-56.  https://thecjbs.org/<br>
