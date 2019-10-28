@@ -6,7 +6,7 @@ layout: post
 
 <span class="image left"><img src="{{ 'assets/images/death-of-buddha.jpg' | relative_url }}" alt="The Buddha’s death and passing into parinibbāna at Kusinara. Burma, 19th century." /></span>
 
-<p>Source of the image above: <a href="https://www.bl.uk/sacred-texts/articles/the-buddha-and-buddhist-sacred-texts">"The Buddha and Buddhist Sacred Texts"</a> (an article I'd recommend reading).</p>
+<p>Source of the image above: <a href="https://www.bl.uk/sacred-texts/articles/the-buddha-and-buddhist-sacred-texts">"The Buddha and Buddhist Sacred Texts"</a> (an article I'd recommend reading).</p> (For a variant of the image above, see <a href="https://cuboids.page.link/hallucination">cuboids.page.link/hallucination</a>. Warning: the variant may be considered offensive.)
 
 <p>How can we know if the Buddha existed as a historical person? One answer: we can consult the field of Buddhist Studies.
 Recently there has been some debate about the matter in this field. David Drewes argued that "no basis for treating the Buddha as a historical figure has yet been identified" (Drewes 2017, 1). This view is not uncontroversial. I'd like to mention three replies to Drewes (2017): Wynne (2019), Levman (2019), and von Hinüber (forthcoming) (see <a href="cuboids.page.link/paywalls">cuboids.page.link/paywalls</a> for how to access paywalled articles).
