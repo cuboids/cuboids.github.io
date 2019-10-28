@@ -11,9 +11,10 @@ layout: post
 <p>How can we know if the Buddha existed as a historical person? One answer: we can consult the field of Buddhist Studies.
 Recently there has been some debate about the matter in this field.</p>
 
-<p>David Drewes (who completed his PhD at the University of Virginia's Department of Religious Studies in 2006 and who is an associate professor of religion at the University of Manitoba as of 2019) recently argued that "no basis for treating the Buddha as a historical figure has yet been identified" (Drewes 2017, 1). This view is not uncontroversial. I'd like to mention three replies to Drewes (2017).</p>
-
-<p>Alexander Wynne (who obtained a DPhil in Oriental Studies from the university of Oxford
+<p>David Drewes recently argued that "no basis for treating the Buddha as a historical figure has yet been identified" (Drewes 2017, 1). This view is not uncontroversial. I'd like to mention three replies to Drewes (2017): Alexander Wynne in Wynne (2019),  Bryan Levman in Levman (2019), and Oskar von Hinüber (forthcoming).
 
 <h3>References</h3>
-<p>Drewes, David. "The Idea of the Historical Buddha." Journal of the International Association of Buddhist Studies 40 (2017): 1-25.</p>
+<p>Drewes, David. "The Idea of the Historical Buddha." <i>Journal of the International Association of Buddhist Studies</i> 40 (2017): 1-25.<br>
+Levman, Bryan. "The Historical Buddha: Response to Drewes." <i>Canadian Journal of Buddhist Studies</i> 14 (2019): 25-56.<br>
+Hinüber, Oskar von. "The Buddha as a Historical Person." <i>Journal of the International Association of Buddhist Studies</i> 42 (forthcoming).<br>
+  Wynne, Alexander. "Did the Buddha exist?." <i>Journal of the Oxford Centre for Buddhist Studies</i> 16 (2019).</p>
