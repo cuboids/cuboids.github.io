@@ -7,7 +7,7 @@ layout: post
 
 <p><i>Image credit: Barre Center for Buddhist Studies</i></p>
 
-<p>An interview in which Bhante Anālayo brilliantly elucidates the practice of death contemplation: 
+<p>Here I'd like to share an interview in which Bhikkhu Anālayo brilliantly elucidates the practice of death contemplation: 
 <a href="https://www.buddhistinquiry.org/article/death-contemplation/">buddhistinquiry.org/article/death-contemplation</a>. For
 actual instructions, see Bhikkhu Anālayo, <i>Satipaṭṭhāna Meditation: A Practice Guide</i> (Cambridge, UK: Windhorse, 2018), esp.
 chap. V.*</p>
