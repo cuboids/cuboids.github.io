@@ -1,5 +1,5 @@
 ---
-title: Death contemplation
+title: Death Contemplation
 author: R.P. de Jonge
 layout: post
 ---
