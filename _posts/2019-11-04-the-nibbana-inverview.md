@@ -2,6 +2,7 @@
 title: The Nibbāna Interview
 author: R.P. de Jonge
 layout: post
+icon: fa-bone
 ---
 <span class="image left"><img src="{{ 'assets/images/nirvana.jpg' | relative_url }}" alt="" /></span>
 
