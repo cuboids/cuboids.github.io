@@ -2,6 +2,7 @@
 title: Cultivating the Brahmavihāras
 author: R.P. de Jonge
 layout: post
+icon: fa-heart
 ---
 <span class="image left"><img src="{{ 'assets/images/brahmavi.jpg' | relative_url }}" alt="" /></span>
 
