@@ -1,5 +1,5 @@
 ---
-title: References on Luminouscuboids
+title: References on luminouscuboids
 author: R.P. de Jonge
 layout: post
 ---
