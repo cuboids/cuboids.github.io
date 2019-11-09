@@ -3,6 +3,7 @@ title: Buddhism Talks
 author: R.P. de Jonge
 layout: post
 ---
+<span class="image left"><img src="{{ 'assets/images/bswa.jpg' | relative_url }}" alt="" /></span>
 
 <p>For anyone interested in Buddhism, last week the <a href="https://www.youtube.com/channel/UC6M_EhnSSdTG_SXUp6IAWmQ">Buddhist Society of Western Australia</a> resumed streaming their  regular talks and meditation sessions on YouTube (their annual Rains Retreat [Vassa] having finished last week).</p>
 
