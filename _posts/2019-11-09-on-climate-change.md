@@ -5,6 +5,4 @@ layout: post
 ---
 <span class="image left"><img src="{{ 'assets/images/elephants-4502268_1920.jpg' | relative_url }}" alt="" /></span>
 
-<p>I find it virtually impossible not to drown in all the (mis/dis)information about climate change. But I doubt if my lack of
-understanding justifies remaining silent on the topic. That's why I'd like to share one journal article, published in a reputable
-journal, which seems to provide a good primer on climate change: <a href="https://doi.org/ddxk">10/ddxk</a> (open access).</p>
+<p>Here I'd like to share a journal article, published in a reputable journal, which seems to provide a good primer on climate change: <a href="https://doi.org/ddxk">10/ddxk</a> (open access).</p>
