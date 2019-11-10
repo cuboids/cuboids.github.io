@@ -3,6 +3,8 @@ title: How to Jump Paywalls?
 author: R.P. de Jonge
 layout: post
 hide: true
+icon: fa-skull-crossbones
+
 ---
 <p>Intellectual property poses interesting questions regarding its ethical justification. I would like to share some techniques for finding the full contents of books and journal articles online. In doing so I firmly suspend value judgements regarding intellectual property; the reader may use these techniques as she sees fit. (Unfortunately the information has a high risk of getting out of date.)</p>
 
