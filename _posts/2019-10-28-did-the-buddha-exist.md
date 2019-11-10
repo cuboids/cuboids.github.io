@@ -2,6 +2,8 @@
 title: Did the Buddha Exist?
 author: R.P. de Jonge
 layout: post
+icon: fa-skull-crossbones
+
 ---
 
 <span class="image left"><img src="{{ 'assets/images/death-of-buddha.jpg' | relative_url }}" alt="The Buddha’s death and passing into parinibbāna at Kusinara. Burma, 19th century." /></span>
