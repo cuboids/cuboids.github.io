@@ -1,5 +1,5 @@
 ---
-title: References on luminouscuboids
+title: References on Luminouscuboids
 author: R.P. de Jonge
 layout: post
 icon: fa-skull-crossbones
