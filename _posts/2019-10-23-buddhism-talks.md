@@ -2,6 +2,8 @@
 title: Buddhism Talks
 author: R.P. de Jonge
 layout: post
+icon: fa-skull-crossbones
+
 ---
 <span class="image left"><img src="{{ 'assets/images/bswa2.png' | relative_url }}" alt="" /></span>
 
