@@ -2,6 +2,7 @@
 title: The Wiki Equation
 author: R.P. de Jonge
 layout: post
+icon: fa-skull-crossbones
 ---
 
 <span class="image left"><img src="{{ 'assets/images/Pierre-Auguste_Renoir,_French_-_The_Large_Bathers_-_Google_Art_Project.jpg' | relative_url }}" alt="" /></span>
