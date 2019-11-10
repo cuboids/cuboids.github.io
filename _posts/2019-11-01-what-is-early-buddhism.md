@@ -2,6 +2,7 @@
 title: What is Early Buddhism?
 author: R.P. de Jonge
 layout: post
+icon: fa-skull-crossbones
 ---
 
 <span class="image left"><img src="{{ 'assets/images/sardis.jpg' | relative_url }}" alt="" /></span>
