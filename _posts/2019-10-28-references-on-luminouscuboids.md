@@ -2,6 +2,8 @@
 title: References on luminouscuboids
 author: R.P. de Jonge
 layout: post
+icon: fa-skull-crossbones
+
 ---
 
 <span class="image left"><img src="{{ 'assets/images/deep-darkmatter.jpg' | relative_url }}" alt="" /></span>
