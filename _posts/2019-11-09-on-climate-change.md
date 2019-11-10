@@ -2,6 +2,7 @@
 title: On climate change
 author: R.P. de Jonge
 layout: post
+icon: fa-skull-crossbones
 ---
 <span class="image left"><img src="{{ 'assets/images/elephants-4502268_1920.jpg' | relative_url }}" alt="" /></span>
 
