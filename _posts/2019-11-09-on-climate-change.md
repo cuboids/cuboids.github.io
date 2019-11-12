@@ -1,6 +1,6 @@
 ---
 title: On Climate Change
-author: R.P. de Jonge
+author: C. van Gog
 layout: post
 icon: fa-skull-crossbones
 ---
