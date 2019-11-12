@@ -1,6 +1,6 @@
 ---
 title: What are Cuboids?
-author: R.P. de Jonge
+author: C. van Gog
 icon: fa-rectangle-landscape
 layout: post
 hide: false
