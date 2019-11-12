@@ -1,6 +1,6 @@
 ---
 title: Cultivating the Brahmavihāras
-author: R.P. de Jonge
+author: C. van Gog
 layout: post
 icon: fa-heart
 ---
