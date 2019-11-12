@@ -1,6 +1,6 @@
 ---
 title: Jumping More Paywalls
-author: J. Zhang & R.P. de Jonge
+author: J. Zhang & C. van Gog
 layout: post
 icon: fa-skull-crossbones
 
