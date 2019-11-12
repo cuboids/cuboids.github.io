@@ -1,6 +1,6 @@
 ---
 title: How to Jump Paywalls?
-author: R.P. de Jonge
+author: C. van Gog
 layout: post
 hide: true
 icon: fa-skull-crossbones
