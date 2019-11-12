@@ -1,7 +1,7 @@
 ---
 title: PINNED Welcome to luminousuboids
-author: R.P. de Jonge
+author: C. van Gog
 layout: post
 icon: fa-skull-crossbones
 ---
-Welcome to the personal website of Robbie Percijn de Jonge.
+Welcome to the personal website of Chung van Gog.
