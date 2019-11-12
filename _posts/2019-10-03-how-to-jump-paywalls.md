@@ -21,5 +21,5 @@ icon: fa-skull-crossbones
 <h3>Addendum 1</h3>
 <p>Google Books and Amazon's preview feature can provide access to parts of books. Many older books can be found on archive.org.</p>
 
-<h3>Addendum 2<h3>
+<h3>Addendum 2</h3>
 <p>Today I found out that Reddit has its own list of resources, available at <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.</p>
