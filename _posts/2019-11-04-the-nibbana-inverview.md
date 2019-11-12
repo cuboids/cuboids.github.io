@@ -1,6 +1,6 @@
 ---
 title: The Nibbāna Interview
-author: R.P. de Jonge
+author: C. van Gog
 layout: post
 icon: fa-bone
 ---
