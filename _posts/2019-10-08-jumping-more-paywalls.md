@@ -6,7 +6,7 @@ icon: fa-skull-crossbones
 
 ---
 
-<p>In <a href="https://cuboids.github.io/2019/10/03/how-to-jump-paywalls.html">the previous post</a> one of us showed how to find (otherwise paywalled) articles and books online. Here we will share one method (out of many) to avoid movie paywalls. This method assumes the watcher is comfortable with double Chinese-English subtitles; non-Chinese speaking viewers may simply ignore the Chinese subs.</p>
+<p>In <a href="https://cuboids.github.io/2019/10/03/how-to-jump-paywalls.html">the previous post</a> Chung showed how to find (otherwise paywalled) articles and books online. Here we will share one method (out of many) to avoid movie paywalls. This method assumes the watcher is comfortable with double Chinese-English subtitles; non-Chinese speaking viewers may simply ignore the Chinese subs.</p>
 
 <p>First, we recommend using an adblocker such as <a href="http://www.standsapp.org/">Fair Adblocker</a> to prevent accidentally clicking any hyperlinks on the websites which host the movies. Optionally, one may wish to use a VPN. We don't recommend inputting any personal details on the websites below.</p>
 
