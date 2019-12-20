@@ -1,5 +1,5 @@
 ---
-title: Consider the Following Quiver
+title: Consider the Following Quiver*
 author: C. van Gog
 layout: post
 icon: fa-skull-crossbones
@@ -18,3 +18,5 @@ and only then help the other beings (alpha) or specific other people (gamma). Yo
 reach out after first taking care of yourself. Failure to do so is what I call <i>beta-deficiency</i>: a lack of self-care,
 often leading to negative health and well-being outcomes.</p>
 
+</p>* A quiver is a nice mathematical structure which more or less captures the structure of the diagram I made. But it won't
+be necessary to go into that.</p>
