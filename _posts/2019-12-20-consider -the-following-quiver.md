@@ -8,7 +8,7 @@ icon: fa-skull-crossbones
 
 <p>Here I'd like to share one way to conceptualize onself and others which I found useful.</p> 
 
-<span class="image left"><img src="{{ 'assets/images/helping.png' | relative_url }}" alt="" /></span>
+<img src="{{ 'assets/images/helping.png' | relative_url }}" alt="" />
 
 <p>In the diagram on the left, each arrow indicates a "helping" relation. Helping can include a lot of actions: from donating
 to a charity, to making a cup of tea for oneself, to attentively listening to someone else. I drew the diagram in this
