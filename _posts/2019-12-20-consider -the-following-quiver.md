@@ -11,5 +11,10 @@ icon: fa-skull-crossbones
 <span class="image left"><img src="{{ 'assets/images/helping.png' | relative_url }}" alt="" /></span>
 
 <p>In the image above, each arrow indicates a "helping" relation. Helping can include a lot of actions, from donating
-to charity, to making a cup of tea for oneself, to attentively listening to someone else. 
+to a charity, to making a cup of tea for oneself, to attentively listening to someone else. I drew the diagram in this
+way because of an important principle which frequent flyers will now: in case of emergency, first put on your own
+oxygen mask, only then help others. I think this principle generalizes: first make sure you adequately help yourself (beta),
+and only then help the other beings (alpha) or specific other people (gamma). You will be in a much better position to 
+reach out after first taking care of yourself. Failure to do so is what I call <i>beta-deficiency</i>: a lack of self-care,
+often leading to negative health and well-being outcomes.</p>
 
