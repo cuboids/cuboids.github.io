@@ -13,4 +13,4 @@ quoted in Analayo 2019†, p. 2341; i.e. the Buddhism between the Ionian Revolt 
 *10/ddh3 (see <a href="https://cuboids.page.link/references">cuboids.page.link/references</a> for how to use shortDOIs) <br>
 †10/ddh4 
 
-Shortened URL: <a href="Cuboids.page.link/eb">Cuboids.page.link/EB</a>
+Shortened URL: <a href="https://cuboids.page.link/eb">Cuboids.page.link/EB</a>
