@@ -6,7 +6,7 @@ icon: fa-skull-crossbones
 ---
 <span class="image left"><img src="{{ 'assets/images/deepmath.jpg' | relative_url }}" alt="" /></span>
 
-<p>There are helpful and not-so-helpful ways of thinking about oneself and others. Here I'd like to share one way to conceptualize onself and others; a way which I found helpful.</p> 
+<p>Here I'd like to share one way to conceptualize onself and others which I found useful.</p> 
 
 <span class="image left"><img src="{{ 'assets/images/helping.png' | relative_url }}" alt="" /></span>
 
