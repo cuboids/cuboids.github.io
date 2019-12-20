@@ -4,9 +4,9 @@ author: C. van Gog
 layout: post
 icon: fa-skull-crossbones
 ---
-<span class="image left"><img src="{{ 'assets/images/deepmath.jpg' | relative_url }}" alt="" /></span>
-
 <p>Here I'd like to share one way to conceptualize onself and others which I found useful.</p> 
+
+<span class="image left"><img src="{{ 'assets/images/deepmath.jpg' | relative_url }}" alt="" /></span>
 
 <img src="{{ 'assets/images/helping.png' | relative_url }}" alt="" />
 
