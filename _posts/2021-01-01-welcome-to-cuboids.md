@@ -4,6 +4,8 @@ author: C. van Gog
 layout: post
 icon: fa-skull-crossbones
 ---
+<span class="image left"><img src="{{ 'assets/images/deepgalaxy.jpg' | relative_url }}" alt="" /></span>
+
 <p>Welcome to the personal website of Chung van Gog. Below are some links to help you get started!</p>
 <ul>
   <li>The mission of this website: <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a> </li>
