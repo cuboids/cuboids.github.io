@@ -1,5 +1,5 @@
 ---
-title: PINNED Welcome to luminousuboids
+title: PINNED: welcome to luminousuboids!
 author: C. van Gog
 layout: post
 icon: fa-skull-crossbones
