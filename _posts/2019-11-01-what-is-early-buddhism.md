@@ -12,7 +12,7 @@ quoted in, e.g., Analayo 2019†, p. 2341; i.e. the Buddhism between the Ionian 
 
 <p>Now that I defined early Buddhism, it may be a good time to share an introduction to the early Buddhist thought world. I would highly recommend <a href="https://amzn.com/1928706983">Excursions into the Thought-world of the Pāli Discourses</a>, which is also freely available online in two volumes: <a href="https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/from-craving.pdf">the first</a> and <a href="https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/from-grasping.pdf">the second</a>.</p>
 
-*10/ddh3 (see <a href="https://cuboids.page.link/references">cuboids.page.link/references</a> for how to use shortDOIs) <br>
+*10/ddh3; see <a href="https://cuboids.page.link/references">cuboids.page.link/references</a> for how to use shortDOIs <br>
 †10/ddh4 
 
 Shortened URL: <a href="https://cuboids.page.link/eb">cuboids.page.link/eb</a>
