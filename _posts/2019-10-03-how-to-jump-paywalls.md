@@ -14,12 +14,8 @@ icon: fa-skull-crossbones
 
 <p>Sometimes ebooks on Z-library have been deleted. In that case you can try <a href="https://www.wikiwand.com/en/Library_Genesis">Library Genesis</a>, now at <a href="https://gen.lib.rus.ec">https://gen.lib.rus.ec</a>, to check if they have a copy. <a href="https://pdfdrive.com">PDF Drive</a> also has some ebooks.</p>
 
-<p>If an article cannot be found on Z-library one might try <a href="https://www.wikiwand.com/en/Sci-Hub">Sci-Hub</a>, now at <a href="https://sci-hub.tw">https://sci-hub.tw</a>. For current mirrors, see <a href="https://whereisscihub.now.sh/">https://whereisscihub.now.sh/</a>.</p>
+<p>If an article cannot be found on Z-library then there's <a href="https://www.wikiwand.com/en/Sci-Hub">Sci-Hub</a>, now at <a href="https://sci-hub.tw">https://sci-hub.tw</a>. For current mirrors, see <a href="https://whereisscihub.now.sh/">https://whereisscihub.now.sh/</a>.</p>
 
-<p>Let me conclude with some remarks concerning reading ebooks. My go-to tool for file conversions remains <a href="https://cloudconvert.com">CloudConvert</a>. I use Google Drive and Google Books for saving and reading ebooks, but your mileage may vary. <b>Statement of non-affiliation: I'm not affiliated with the organizations mentioned in this post</b></p>
+<p>For file conversions I usually use <a href="https://cloudconvert.com">CloudConvert</a>. I use Google Drive and Google Books for saving and reading ebooks, but there are many options. Google Books and Amazon's preview feature can provide access to parts of books. And many older books can be found on archive.org.</p>
 
-<h3>Addendum 1</h3>
-<p>Google Books and Amazon's preview feature can provide access to parts of books. Many older books can be found on archive.org.</p>
-
-<h3>Addendum 2</h3>
-<p>Today I found out that Reddit has its own list of resources, available at <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.</p>
+<p>Reddit has a list: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.</p>
