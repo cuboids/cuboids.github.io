@@ -12,7 +12,7 @@ icon: fa-skull-crossbones
 
 <p>Z-library contains about five million ebooks and seventy-five million journal articles, all freely accessible. Its URLs include (a) the redirection page <a href="https://z-lib.org">https://z-lib.org</a>, (b) <a href="https://b-ok.org">https://b-ok.org</a> or <a href="https://b-ok.xyz">https://b-ok.xyz</a> for ebooks, and (c) <a href="https://booksc.org/">https://booksc.org/</a> or <a href="https://booksc.xyz/">https://booksc.xyz/</a> for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up <a href="https://th.b-ok2.org/blog/5">ZAlerts</a>, which notify you when a new book becomes available.</p>
 
-<p>Sometimes ebooks on Z-library have been deleted. In that case you can try <a href="https://www.wikiwand.com/en/Library_Genesis">Library Genesis</a>, now at <a href="https://gen.lib.rus.ec">https://gen.lib.rus.ec</a>, to check if they have a copy of the ebook. <a href="https://pdfdrive.com">PDF Drive</a> also has some ebooks.</p>
+<p>Sometimes ebooks on Z-library have been deleted. In that case you can try <a href="https://www.wikiwand.com/en/Library_Genesis">Library Genesis</a>, now at <a href="https://gen.lib.rus.ec">https://gen.lib.rus.ec</a>, to check if they have a copy. <a href="https://pdfdrive.com">PDF Drive</a> also has some ebooks.</p>
 
 <p>If an article cannot be found on Z-library one might try <a href="https://www.wikiwand.com/en/Sci-Hub">Sci-Hub</a>, now at <a href="https://sci-hub.tw">https://sci-hub.tw</a>. For current mirrors, see <a href="https://whereisscihub.now.sh/">https://whereisscihub.now.sh/</a>.</p>
 
