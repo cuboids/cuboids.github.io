@@ -8,7 +8,7 @@ icon: fa-skull-crossbones
 
 ---
 
-<p>Cuboids are small and irregularly updated blog posts. The subtitle of <i>luminouscuboids</i> reads "Dhamma and Life": it's about the <i>dhamma</i> (<i>hō</i> in Japanese, <i>beop</i> in Korean, 法—pronounced fǎ—in Mandarin, <i>dharma</i> in Sanskrit, <i>chö</i> in Tibetan, and <i>pháp</i> in Vietnamese) and about "life", my experience and that of others. <i>Luminouscuboids</i> lets you believe what you already want to believe and buy what you already want to buy. Cuboids are free from advertising and ideological indoctrination.</p>
+<p>Cuboids are small and irregularly updated blog posts. The subtitle of <i>luminouscuboids</i> reads "Dhamma and Life": it's about the <i>dhamma</i> (<i>hō</i> in Japanese, <i>beop</i> in Korean, 法—pronounced fǎ—in Mandarin, <i>dharma</i> in Sanskrit, <i>chö</i> in Tibetan, and <i>pháp</i> in Vietnamese) and about "life", my experience and that of others. <i>Luminouscuboids</i> lets you believe what you already want to believe and buy whatever you already want to buy. Cuboids are free from advertising and ideological indoctrination.</p>
 
 <p>I tip my hat to Mark Rothko, who's oeuvre inspired the notion of a "luminous cuboid". Unlike a hyperrealist, I do not paint a detailed portrait of reality. Rather, cuboids shed light on interesting topics while preferring brevity over digression, content over style, and a "minimum viable cuboid" over a perfect one. <i>Luminouscuboids</i> serves the modest goal of "simply existing", floating in the outskirts of blogospheric cyberspace, welcoming any visitor it receives.</p>
 
