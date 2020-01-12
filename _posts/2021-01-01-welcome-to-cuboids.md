@@ -8,7 +8,7 @@ icon: fa-skull-crossbones
 
 <p>Welcome to Chung van Gog's personal website. Below are some links to help you get started!</p>
 <ul>
-  <li>My mission: <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a> </li>
+  <li>Luminouscuboids's purpose: <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a> </li>
   <li>References: <a href="https://cuboids.page.link/pagelink">cuboids.page.link/pagelink</a> </li>
   <li>Early Buddhism: <a href="https://cuboids.page.link/eb">cuboids.page.link/eb</a> </li>
   <li>Jumping paywalls: <a href="https://cuboids.page.link/paywalls">cuboids.page.link/paywalls</a> </li> 
