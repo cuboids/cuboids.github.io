@@ -18,4 +18,4 @@ icon: fa-skull-crossbones
 
 <p>For file conversions I usually use <a href="https://cloudconvert.com">CloudConvert</a>. I use Google Drive and Google Books for saving and reading ebooks, but there are many options. Google Books and Amazon's preview feature can provide access to parts of books. And many older books can be found on archive.org.</p>
 
-<p>Reddit has a list: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.</p>
+<p>See also the Piracy Megathread on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.</p>
