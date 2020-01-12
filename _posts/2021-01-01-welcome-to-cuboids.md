@@ -6,7 +6,7 @@ icon: fa-skull-crossbones
 ---
 <span class="image left"><img src="{{ 'assets/images/deepgalaxy.jpg' | relative_url }}" alt="" /></span>
 
-<p>Welcome to the personal website of Chung van Gog. Below are some links to help you get started!</p>
+<p>Welcome to Chung van Gog's personal website. Below are some links to help you get started!</p>
 <ul>
   <li>The mission of this website: <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a> </li>
   <li>How references work on this website: <a href="https://cuboids.page.link/pagelink">cuboids.page.link/pagelink</a> </li>
