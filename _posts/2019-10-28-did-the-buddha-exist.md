@@ -10,10 +10,10 @@ icon: fa-skull-crossbones
 
 <p>Source of the image above: <a href="https://www.bl.uk/sacred-texts/articles/the-buddha-and-buddhist-sacred-texts">"The Buddha and Buddhist Sacred Texts"</a>&mdash;check it out! For a variation, see <a href="https://cuboids.page.link/hallucination">cuboids.page.link/hallucination</a>. </p>
 
-<p>How can we know if the Buddha existed as a historical person? One answer: we can consult the field of Buddhist Studies.
-Recently there has been some debate about the matter in this field. David Drewes argued that "no basis for treating the Buddha as a historical figure has yet been identified" (Drewes 2017, 1). This view is not uncontroversial. I'd like to mention three replies to Drewes (2017): Wynne (2019), Levman (2019), and von Hinüber (forthcoming), cited in Dhammadinnā (2018, 303n55).</p>
+<p>How can we know if the Buddha existed as a historical person? I think we should consult the field of Buddhist Studies.
+It turns out that there has recently been some debate about the matter in this field. David Drewes argued that "no basis for treating the Buddha as a historical figure has yet been identified" (Drewes 2017, 1). But others disagree: Wynne (2019), Levman (2019), and von Hinüber (forthcoming), cited in Dhammadinnā (2018, 303n55).</p>
 
-<p>I will leave it to the reader to make up their own minds; however, in line with the articles by Wynne, Levman, and von Hinüber, and considering Wynne (2005) and Sujato & Brahmali (2015), in further blog posts I will assume that (<i>i</i>) the Buddha was a historical person and (<i>ii</i>) it is possible to know about his life, e.g. by consulting works such as Gombrich (2009). (See <a href="https://cuboids.page.link/paywalls">cuboids.page.link/paywalls</a> for how to access paywalled articles.) 
+<p>I will leave it to the reader to make up their own minds; however, in line with the articles by Wynne, Levman, and von Hinüber, and considering Wynne (2005) and Sujato & Brahmali (2015), in further cuboids I will assume that (<i>i</i>) the Buddha was a historical person and (<i>ii</i>) it is possible to know about his life.
 
 <h3>References</h3>
 <p>
