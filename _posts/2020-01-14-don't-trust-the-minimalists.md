@@ -13,7 +13,7 @@ icon: fa-skull-crossbones
 Minimalism is a tool that can assist you in finding freedom. . . .  Freedom from the trappings of the consumer culture we’ve built our lives around. Real freedom.
 </blockquote></p>  
 
-<p>How wonderful! So you are telling me&mdash;an innocent deer ensnared in the trappings of consumer culture&mdash;that there is a way out? And this way out starts with paying $15 for your book on minimalism and $150 for an "on-the-go" coffee machine? I should mention that the Pakt Coffee Kit team includes a marketer, <i>the</i> job which perpetuates consumer culture. If that's not enough, the YouTube videos of the Minimalists include plenty of affiliate links (unlike luminouscuboids, see <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a>).</p>
+<p>How wonderful! So you are telling me&mdash;an innocent deer ensnared in the trappings of consumer culture&mdash;that there is a way out? And this way out starts with paying $15 for your book on minimalism and $150 for an "on-the-go" coffee machine? I should mention that the Pakt Coffee Kit team includes a marketer, <i>the</i> job which perpetuates consumer culture. If that's not enough, the YouTube videos of the Minimalists include plenty of affiliate links (unlike <i>luminouscuboids</i>, see <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a>).</p>
   
 <p>A bit further on, they write:</p>
 
