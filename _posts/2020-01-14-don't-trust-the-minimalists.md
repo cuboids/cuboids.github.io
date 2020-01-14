@@ -13,8 +13,7 @@ icon: fa-skull-crossbones
 Minimalism is a tool that can assist you in finding freedom. . . .  Freedom from the trappings of the consumer culture we’ve built our lives around. Real freedom.
 </blockquote></p>  
 
-<p>How wonderful! So you are telling me, an innocent deer ensnared in the trappings of consumer culture, that there is a way out?
-And this way out starts with paying $15 for your book on minimalism and $150 for an "on-the-go" coffee machine? Those are somehow "exempt" from the consumer culture you mention, despite their slick marketing? What about all the affiliate links in your YouTube
+<p>How wonderful! So you are telling me&mdash;an innocent deer ensnared in the trappings of consumer culture&mdash;that there is a way out? And this way out starts with paying $15 for your book on minimalism and $150 for an "on-the-go" coffee machine? Those are somehow "exempt" from the consumer culture you mention, despite their slick marketing? What about all the affiliate links in your YouTube
 videos?</p>
   
 <p>A bit further on they write:</p>
