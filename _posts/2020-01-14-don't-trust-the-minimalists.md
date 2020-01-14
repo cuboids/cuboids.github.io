@@ -7,8 +7,7 @@ icon: fa-skull-crossbones
 
 <span class="image left"><img src="{{ 'assets/images/coffee-medres.jpg' | relative_url }}" alt="" /></span>
 
-<p>According to two people who call themselves "The Minimalists" we should buy the "Pakt Coffee Kit". Let's wind back a bit. What
-do they mean with minimalism? From their website:</p>
+<p>According to two people who call themselves "The Minimalists" we should buy the "Pakt Coffee Kit" (see <a href="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1566510901/sltqcc7gewvbj9ux8hnx.png">here</a> for a picture). Let's wind back a bit. What do they mean with minimalism? From their website:</p>
 
 <p><blockquote cite="https://www.theminimalists.com/minimalism/">
 Minimalism is a tool that can assist you in finding freedom. . . .  Freedom from the trappings of the consumer culture we’ve built our lives around. Real freedom.
