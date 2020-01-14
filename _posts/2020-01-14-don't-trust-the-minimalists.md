@@ -5,6 +5,8 @@ layout: post
 icon: fa-skull-crossbones
 ---
 
+<span class="image left"><img src="{{ 'assets/images/coffee-medres.jpg' | relative_url }}" alt="" /></span>
+
 <p>According to two people who call themselves "The Minimalists" we should buy the "Pakt Coffee Kit". Let's wind back a bit. What
 do they mean with minimalism? From their website:</p>
 
