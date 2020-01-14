@@ -16,7 +16,7 @@ Minimalism is a tool that can assist you in finding freedom. . . .  Freedom from
 <p>How wonderful! So you are telling me&mdash;an innocent deer ensnared in the trappings of consumer culture&mdash;that there is a way out? And this way out starts with paying $15 for your book on minimalism and $150 for an "on-the-go" coffee machine? Those are somehow "exempt" from the consumer culture you mention, despite their slick marketing? What about all the affiliate links in your YouTube
 videos?</p>
   
-<p>A bit further on they write:</p>
+<p>A bit further on, they write:</p>
 
 <p><blockquote> What is minimalism? If we had to sum it up in a single sentence, we would say, <i>Minimalism is a tool to rid yourself of life’s excess in favor of focusing on what’s important—so you can find happiness, fulfillment, and freedom.</i></blockquote></p>
 
