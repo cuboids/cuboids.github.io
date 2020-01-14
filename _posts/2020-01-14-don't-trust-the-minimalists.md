@@ -20,7 +20,7 @@ videos?</p>
 
 <p><blockquote> What is minimalism? If we had to sum it up in a single sentence, we would say, <i>Minimalism is a tool to rid yourself of life’s excess in favor of focusing on what’s important—so you can find happiness, fulfillment, and freedom.</i></blockquote></p>
 
-<p>That sounds wonderful! Well, let me think. What's more meaningful, drinking a cup of coffee all alone, in unhappy, unfulfilled
+<p>That sounds great! Well, let me think. What's more meaningful, drinking a cup of coffee all alone, in unhappy, unfulfilled
 isolation, or drinking with someone else, maybe a colleague or friend, or even a total stranger? I can see much more fulfillment in making new connections! How weird that the Pakt Coffee Kit can only make one cup of coffee at a time! I'm supposed to only care about myself? Is that what minimalism is about?</p>
 
 <p><i>Even if</i> there is no one to share coffee with, and <i>even if</i> I'm in the very awkward position of having access to electricity and water, but not to coffee, I'd much rather use another method to make coffee. Rather than giving an explanation, I have put the Pakt Coffee Kit and my solution side by side here: <a href="https://bit.ly/3a7w12r">bit.ly/3a7w12r</a> (instructions: first click on "play" on both YouTube videos, then click play on the bottom compound video player). It saves me time, 150 dollars, and, as a bonus, time doing the dishes afterwards.</p>
