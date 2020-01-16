@@ -12,4 +12,4 @@ icon: fa-skull-crossbones
 
 <p>To make referencing earlier blog posts easier I sometimew give them a PageLink address: a shortened URL such as <a href="https://cuboids.page.link/pagelink">cuboids.page.link/pagelink</a>.</p>
   
-<p>I also use shortDOIs to reference articles. They are usually of the format 10/abcd and can be resolved by going to https://doi.org/abcd or by using the DOI resolver at <a href="https://doi.org">doi.org</a>.</p>
+<p>I also use shortDOIs to reference articles. They are usually of the format 10/abcd and can be resolved by going to https://doi.org/abcd or by using the DOI resolver at <a href="https://doi.org">doi.org</a>. I'll hyperlink shortDOIs if, and only if, they are open source.</p>
