@@ -8,6 +8,8 @@ icon: fa-skull-crossbones
 ---
 <p>Intellectual property poses interesting questions regarding its ethical justification. I would like to share some techniques for finding the full contents of books and journal articles online. In doing so I firmly suspend value judgements regarding intellectual property; the reader may use these techniques as she sees fit.</p>
 
+<p>Some legal resources for finding journal articles can be found here: <a href="https://www.sciencebuddies.org/science-fair-projects/competitions/finding-and-accessing-scientific-papers">sciencebuddies.org/science-fair-projects/competitions/finding-and-accessing-scientific-papers</a>.<p>
+
 <p>Sometimes a simple Google search for <pre>[book or article name] filetype:pdf</pre> will work. But usually it will fail.</p>
 
 <p>Z-library contains about five million ebooks and seventy-five million journal articles, all freely accessible. Its URLs include (a) the redirection page <a href="https://z-lib.org">https://z-lib.org</a>, (b) <a href="https://b-ok.org">https://b-ok.org</a> or <a href="https://b-ok.xyz">https://b-ok.xyz</a> for ebooks, and (c) <a href="https://booksc.org/">https://booksc.org/</a> or <a href="https://booksc.xyz/">https://booksc.xyz/</a> for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up <a href="https://th.b-ok2.org/blog/5">ZAlerts</a>, which notify you when a new book becomes available.</p>
