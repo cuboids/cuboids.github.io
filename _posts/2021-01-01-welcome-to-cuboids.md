@@ -11,8 +11,12 @@ icon: fa-skull-crossbones
   <li>Luminouscuboids's purpose: <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a> </li>
   <li>References: <a href="https://cuboids.page.link/pagelink">cuboids.page.link/pagelink</a> </li>
   <li>Early Buddhism: <a href="https://cuboids.page.link/eb">cuboids.page.link/eb</a> </li>
-  <li>Jumping paywalls: <a href="https://cuboids.page.link/paywalls">cuboids.page.link/paywalls</a> </li> 
+  <li>Jumping paywalls: <a href="https://cuboids.page.link/paywalls">cuboids.page.link/paywalls</a> 
+  <li>Illuminated Sutta Discovery
+  </li> 
+ 
+
 </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU5NzEzMzBdfQ==
+eyJoaXN0b3J5IjpbMTUxMjUyODgyNCwtMjA1NTk3MTMzMF19
 -->
