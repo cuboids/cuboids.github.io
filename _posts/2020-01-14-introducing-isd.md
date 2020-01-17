@@ -9,9 +9,9 @@ icon: fa-skull-crossbones
 
 <h3>Preliminaries</h3>
 <p><blockquote>
-The most important body of sacred scripture in Buddhism is the Suttapiṭaka, the “basket of discourses”. This collection contains the teachings of the Buddha and his disciples, as collected and transmitted by the schools of early Buddhism. This is the well-spring of Dhamma, from which the teachings and practices of the many schools of Buddhism are drawn.
+<p>The most important body of sacred scripture in Buddhism is the Suttapiṭaka, the “basket of discourses”. This collection contains the teachings of the Buddha and his disciples, as collected and transmitted by the schools of early Buddhism. This is the well-spring of Dhamma, from which the teachings and practices of the many schools of Buddhism are drawn.</p>
 
-The term sutta in Pali or sūtra in Sanskrit is used quite liberally in the Buddhist traditions and may include a range of later texts. However, we only consider the earliest of these, which are the texts included in the Suttapiṭaka of the Pali canon, and the various corresponding collections and texts in other languages.
+<p>The term sutta in Pali or sūtra in Sanskrit is used quite liberally in the Buddhist traditions and may include a range of later texts. However, we only consider the earliest of these, which are the texts included in the Suttapiṭaka of the Pali canon, and the various corresponding collections and texts in other languages.</p>
 </blockquote></p>
 
 <h3>About this series</h3>
