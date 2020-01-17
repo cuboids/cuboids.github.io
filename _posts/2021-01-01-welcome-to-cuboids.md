@@ -13,3 +13,6 @@ icon: fa-skull-crossbones
   <li>Early Buddhism: <a href="https://cuboids.page.link/eb">cuboids.page.link/eb</a> </li>
   <li>Jumping paywalls: <a href="https://cuboids.page.link/paywalls">cuboids.page.link/paywalls</a> </li> 
 </ul>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNTU5NzEzMzBdfQ==
+-->
