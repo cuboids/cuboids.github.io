@@ -14,11 +14,9 @@ Some legal resources for finding journal articles can be found here: [Resources 
 
 Sometimes a simple Google search for <code><strong>[book or article name] filetype:pdf</strong></code> will work. But usually it will fail.
 
-Z-library contains about five million ebooks and 75 million journal articles, all freely accessible. Its URLs include (a) the redirection page [Z-Library](https://z-lib.org), (b) [Electronic Library (1a)](https://b-ok.org) or [Electronic Library (1b)](https://b-ok.xyz) for ebooks, and (&#99;) [Electronic Library (2a)](https://booksc.org) or [Electronic Library (2b)](https://booksc.xyz) for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up [ZAlerts](https://th.b-o
+Z-library contains about five million ebooks and 75 million journal articles, all freely accessible. Its URLs include (a) the redirection page [Z-Library](https://z-lib.org), (b) [Electronic Library (1a)](https://b-ok.org) or [Electronic Library (1b)](https://b-ok.xyz) for ebooks, and (&#99;) [Electronic Library (2a)](https://booksc.org) or [Electronic Library (2b)](https://booksc.xyz) for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up [ZAlerts](https://th.b-ok2.org/blog/5), which notiy you when a new book becomes available.
 
-Z-library contains about five million ebooks and seventy-five million journal articles, all freely accessible. Its URLs include (a) the redirection page <a href="https://z-lib.org">https://z-lib.org</a>, (b) <a href="https://b-ok.org">https://b-ok.org</a> or <a href="https://b-ok.xyz">https://b-ok.xyz</a> for ebooks, and (c) <a href="https://booksc.org/">https://booksc.org/</a> or <a href="https://booksc.xyz/">https://booksc.xyz/</a> for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up <a href="https://th.b-ok2.org/blog/5">ZAlerts</a>, which notify you when a new book becomes available.
-
-Sometimes ebooks on Z-library have been deleted. In that case you can try <a href="https://www.wikiwand.com/en/Library_Genesis">Library Genesis</a>, now at <a href="https://gen.lib.rus.ec">https://gen.lib.rus.ec</a>, to check if they have a copy. <a href="https://pdfdrive.com">PDF Drive</a> also has some ebooks.
+Sometimes ebooks on Z-library have been deleted. In that case you can try [Library Genesis](https://wikiwand.com/en/Library_Genesis), now at <a href="https://gen.lib.rus.ec">https://gen.lib.rus.ec</a>, to check if they have a copy. <a href="https://pdfdrive.com">PDF Drive</a> also has some ebooks.
 
 If an article cannot be found on Z-library then there's <a href="https://www.wikiwand.com/en/Sci-Hub">Sci-Hub</a>, now at <a href="https://sci-hub.tw">https://sci-hub.tw</a>. For current mirrors, see <a href="https://whereisscihub.now.sh/">https://whereisscihub.now.sh/</a>.
 
@@ -26,5 +24,5 @@ For file conversions I usually use <a href="https://cloudconvert.com">CloudConve
 
 See also the Piracy Megathread on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTU2NTQ2NCw4NTc3MjE4NDBdfQ==
+eyJoaXN0b3J5IjpbLTkwMDM2NDUwNyw4NTc3MjE4NDBdfQ==
 -->
