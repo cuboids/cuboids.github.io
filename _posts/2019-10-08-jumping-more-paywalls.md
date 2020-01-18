@@ -6,7 +6,7 @@ layout: post
 ---
 <div class="image left"><img src="/assets/images/ex-libris.jpg"  alt="A still from Ex Libris: The New York Public Library" style="width:655px;height:437px;"></div>
 
-In [the previous post](https://cuboids.page.link/paywalls), Chung showed how to find paywalled articles and books online. Here we will share one method (out of many) to avoid movie paywalls. This method assumes the watcher is comfortable with double Chinese-English subtitles; non-Chinese speaking viewers may simply ignore the Chinese subs. The same disclaimers as those in the first paragraph of [How to Jump Paywalls](https://cuboids.page.link/paywalls) apply
+In [the previous post](https://cuboids.page.link/paywalls), Chung showed how to find paywalled articles and books online. Here we will share one method (out of many) to avoid movie paywalls. This method assumes the watcher is comfortable with double Chinese-English subtitles; non-Chinese speaking viewers may simply ignore the Chinese subs. The same disclaimers as those in the first paragraph of [How to Jump Paywalls](https://cuboids.page.link/paywalls) apply.
 
 First, we recommend using an adblocker such as [Fair Adblocker](https://standsapp.org/) to prevent accidentally clicking any hyperlinks on the websites which host the movies. Optionally, one may wish to use a VPN. We don't recommend inputting any personal details on the websites below.
 
@@ -20,5 +20,6 @@ If you didn't get any luck after one or two clicks, just continue. Usually haitu
 ### Downloading movies
 Though downloading is possible (use 下载 in your query), one usually needs Xunlei, Baidu Wangpan or other software to download the torrent.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODM0NDUwNCwxODg4ODEwMzgyXX0=
+eyJoaXN0b3J5IjpbNjc2MTI5OTY0LC0zODgzNDQ1MDQsMTg4OD
+gxMDM4Ml19
 -->
