@@ -6,7 +6,7 @@ icon: fa-skull-crossbones
 
 ---
 
-<span class="image left"><img src="{{ 'assets/images/deep-darkmatter.jpg' | relative_url }}" alt="" /></span>
+<span class="image left"><img src="{{ 'assets/images/deep-darkmatter.jpg' | relative_url }}" alt="An image based on dark matter" /></span>
 
 <p>To make referencing earlier blog posts easier I sometimes give them a PageLink address: a shortened URL such as <a href="https://cuboids.page.link/pagelink">cuboids.page.link/pagelink</a>.</p>
   
@@ -14,5 +14,5 @@ icon: fa-skull-crossbones
 
 <p>Image source: <a href="https://phys.org/news/2019-06-candidate-dark.html">Science X/Zarija Lukic/Lawrence Berkeley National Laboratory</a> + <a href="https://deepdreamgenerator.com/">Deep Dream Generator</a>.</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzE0NDAyNV19
+eyJoaXN0b3J5IjpbMTc2NzM5ODk4LDEyMDMxNDQwMjVdfQ==
 -->
