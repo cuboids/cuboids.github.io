@@ -12,7 +12,7 @@ Intellectual property poses interesting questions regarding its ethical justific
 
 Some legal resources for finding journal articles can be found here: [Resources for Finding and Accessing Scientific Papers](https://www.sciencebuddies.org/science-fair-projects/competitions/finding-and-accessing-scientific-papers).
 
-Sometimes a simple Google search for <code><strong><span style="color:green;">[book or article name] filetype:pdf</span></strong></code> will work. But usually it will fail.
+Sometimes a simple Google search for <code><strong><span style="color:green">[book or article name] filetype:pdf</span></strong></code> will work. But usually it will fail.
 
 Z-library contains about five million ebooks and seventy-five million journal articles, all freely accessible. Its URLs include (a) the redirection page <a href="https://z-lib.org">https://z-lib.org</a>, (b) <a href="https://b-ok.org">https://b-ok.org</a> or <a href="https://b-ok.xyz">https://b-ok.xyz</a> for ebooks, and (c) <a href="https://booksc.org/">https://booksc.org/</a> or <a href="https://booksc.xyz/">https://booksc.xyz/</a> for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up <a href="https://th.b-ok2.org/blog/5">ZAlerts</a>, which notify you when a new book becomes available.
 
