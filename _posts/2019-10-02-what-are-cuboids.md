@@ -5,7 +5,7 @@ author: C. van Gog
 
 ---
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Untitled (Yellow, Red, and Blue), a painting by Mark Rothko]()
 
 <span class="image left"><img src="{{ 'assets/images/untitled-yrb.jpg' | relative_url }}" alt="" /></span>
 
@@ -16,6 +16,6 @@ author: C. van Gog
 <p>Image source: <a href="https://www.wikiart.org/en/mark-rothko/untitled-yellow-red-and-blue-1953/">Untitled (Yellow, Red, and Blue), Mark Rothko, 1953</a>.<br>
 Shortened URL: <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a>.</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDgwNDgzNCw3Njc1ODAyMjAsMTkyOT
+eyJoaXN0b3J5IjpbMTk0MTAxODEzMCw3Njc1ODAyMjAsMTkyOT
 MzOTE1MV19
 -->
