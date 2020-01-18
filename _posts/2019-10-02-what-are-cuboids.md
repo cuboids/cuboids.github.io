@@ -11,10 +11,10 @@ Cuboids are small and irregularly updated blog posts. The subtitle of luminouscu
 
 I tip my hat to Mark Rothko, who's oeuvre inspired the notion of a "luminous cuboid". Unlike a hyperrealist, I do not paint a detailed portrait of reality. Rather, cuboids shed light on interesting topics while preferring brevity over digression, content over style, and a "minimum viable cuboid" over a perfect one. Luminouscuboids serves the modest goal of simply existing, floating in the outskirts of blogospheric cyberspace, welcoming any visitor it receives.
 
-Image source: <a href="https://www.wikiart.org/en/mark-rothko/untitled-yellow-red-and-blue-1953/"><cite>Untitled (Yellow, Red, and Blue)</cite>, Mark Rothko, 1953</a>.<br>
+Image source: <a href="https://www.wikiart.org/en/mark-rothko/untitled-yellow-red-and-blue-1953/"><cite>Untitled (Yellow, Red, and Blue)</cite>, Mark Rothko, 1953</a>.  
 Shortened URL: <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NDYzMDIsLTUxNDgwODY4NywtMTMwOT
-QwNjk0NSwxMTM4NDQ5ODM3LDc2NzU4MDIyMCwxOTI5MzM5MTUx
-XX0=
+eyJoaXN0b3J5IjpbMTU2MTgwNjU0NCwtNTE0ODA4Njg3LC0xMz
+A5NDA2OTQ1LDExMzg0NDk4MzcsNzY3NTgwMjIwLDE5MjkzMzkx
+NTFdfQ==
 -->
