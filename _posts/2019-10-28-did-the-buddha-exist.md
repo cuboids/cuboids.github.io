@@ -6,7 +6,7 @@ icon: fa-skull-crossbones
 
 ---
 
-<span class="image left"><img src="{{ 'assets/images/death-of-buddha.jpg' | relative_url }}" alt="The Buddha’s death and passing into parinibbāna at Kusinara. Burma, 19th century." /></span>
+<span class="image left"><img src="{{ 'assets/images/death-of-buddha.jpg' | relative_url }}" alt="The Buddha’s death and passing into parinibbāna at Kusinara. Burma, 19th century." style="width:95%;height:auto;" /></span>
 
 <p>Source of the image above: <a href="https://www.bl.uk/sacred-texts/articles/the-buddha-and-buddhist-sacred-texts">"The Buddha and Buddhist Sacred Texts"</a>&mdash;check it out! For a variation, see <a href="https://cuboids.page.link/hallucination">cuboids.page.link/hallucination</a>. </p>
 
@@ -28,3 +28,6 @@ It turns out that there has recently been some debate about the matter in this f
 <li>Wynne, Alexander. 2019. "Did the Buddha exist?" <i>Journal of the Oxford Centre for Buddhist Studies</i> 16: 98-148. <a href="http://jocbs.org/index.php/jocbs/article/view/193">https://jocbs.org/index.php/jocbs/article/view/193</a>.</li></ul></p>
 
 <p>Shortened URL: <a href="https://cuboids.page.link/buddha">cuboids.page.link/buddha</a>.</p>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTg2MDk0MjIwXX0=
+-->
