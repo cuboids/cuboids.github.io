@@ -14,7 +14,7 @@ Some legal resources for finding journal articles can be found here: [Resources 
 
 Sometimes a simple Google search for <code><strong>[book or article name] filetype:pdf</strong></code> will work. But usually it will fail.
 
-Z-library contains about five million ebooks and 75 million journal articles, all freely accessible. Its URLs include (a) the redirection page [Z-Library](https://z-lib.org), (b) [here](https://b-ok.org) or [here](https://b-ok.xyz) for ebooks, and (&#99;) [here](https://booksc.org) or [Electronic Library (2b)](https://booksc.xyz) for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up [ZAlerts](https://th.b-ok2.org/blog/5), which notiy you when a new book becomes available.
+Z-library contains about five million ebooks and 75 million journal articles, all freely accessible. Its URLs include (a) the redirection page [Z-Library](https://z-lib.org), (b) [the Electronic Library (1)](https://b-ok.org) ([alternative link](https://b-ok.xyz)) for ebooks, and (&#99;) [the Electronic Library (2)](https://booksc.org) ([alternative li](https://booksc.xyz) for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up [ZAlerts](https://th.b-ok2.org/blog/5), which notiy you when a new book becomes available.
 
 Sometimes ebooks on Z-library have been deleted. In that case you can try [Library Genesis](https://wikiwand.com/en/Library_Genesis), now [here](https://gen.lib.rus.ec), to check if they have a copy. [PDF Drive](https://pdfdrive.com) also has some ebooks.
 
@@ -24,5 +24,5 @@ For file conversions I usually use <a href="https://cloudconvert.com">CloudConve
 
 See also the Piracy Megathread on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDM1MTI4Miw4NTc3MjE4NDBdfQ==
+eyJoaXN0b3J5IjpbMTY3MzQxODg0Myw4NTc3MjE4NDBdfQ==
 -->
