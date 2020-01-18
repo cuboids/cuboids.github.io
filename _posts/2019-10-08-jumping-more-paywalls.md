@@ -2,11 +2,10 @@
 title: Jumping More Paywalls
 author: J. Zhang & C. van Gog
 layout: post
-icon: fa-skull-crossbones
 
 ---
 
-<p>In <a href="https://cuboids.github.io/2019/10/03/how-to-jump-paywalls.html">the previous post</a> Chung showed how to find (otherwise paywalled) articles and books online. Here we will share one method (out of many) to avoid movie paywalls. This method assumes the watcher is comfortable with double Chinese-English subtitles; non-Chinese speaking viewers may simply ignore the Chinese subs. The same disclaimers as those in the first paragraph of <a href="https://cuboids.github.io/2019/10/03/how-to-jump-paywalls.html">How to Jump Paywalls</a> apply</p>
+In [the previous post](https://cuboids.page.link/paywalls), Chung showed how to find (otherwise paywalled) articles and books online. Here we will share one method (out of many) to avoid movie paywalls. This method assumes the watcher is comfortable with double Chinese-English subtitles; non-Chinese speaking viewers may simply ignore the Chinese subs. The same disclaimers as those in the first paragraph of <a href="https://cuboids.github.io/2019/10/03/how-to-jump-paywalls.html">How to Jump Paywalls</a> apply</p>
 
 <p>First, we recommend using an adblocker such as <a href="http://www.standsapp.org/">Fair Adblocker</a> to prevent accidentally clicking any hyperlinks on the websites which host the movies. Optionally, one may wish to use a VPN. We don't recommend inputting any personal details on the websites below.</p>
 
@@ -20,5 +19,5 @@ icon: fa-skull-crossbones
 <h3>Downloading movies</h3>
 <p>Though downloading is possible (use 下载 in your query), one usually needs Xunlei, Baidu Wangpan or other software to download the torrent.</p>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI1MTIyNTldfQ==
+eyJoaXN0b3J5IjpbMTYzNzE1Mzg1MV19
 -->
