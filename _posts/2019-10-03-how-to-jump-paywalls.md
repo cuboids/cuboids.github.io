@@ -12,7 +12,7 @@ Intellectual property poses interesting questions regarding its ethical justific
 
 Some legal resources for finding journal articles can be found here: [Resources for Finding and Accessing Scientific Papers](https://www.sciencebuddies.org/science-fair-projects/competitions/finding-and-accessing-scientific-papers).
 
-Sometimes a simple Google search for <span style="color:green;"><code><strong>[book or article name] filetype:pdf</code></strong></span> will work. But usually it will fail.
+Sometimes a simple Google search for <span style="color:green;"><code><strong>[book or article name] filetype:pdf</strong></code></span> will work. But usually it will fail.
 
 Z-library contains about five million ebooks and seventy-five million journal articles, all freely accessible. Its URLs include (a) the redirection page <a href="https://z-lib.org">https://z-lib.org</a>, (b) <a href="https://b-ok.org">https://b-ok.org</a> or <a href="https://b-ok.xyz">https://b-ok.xyz</a> for ebooks, and (c) <a href="https://booksc.org/">https://booksc.org/</a> or <a href="https://booksc.xyz/">https://booksc.xyz/</a> for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up <a href="https://th.b-ok2.org/blog/5">ZAlerts</a>, which notify you when a new book becomes available.
 
@@ -24,6 +24,6 @@ For file conversions I usually use <a href="https://cloudconvert.com">CloudConve
 
 See also the Piracy Megathread on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjAzODI0MDcsMTA0NjI3NTA2MSwtMT
-Y0OTg4Mzk2NCw0NTI2Mzc3MDBdfQ==
+eyJoaXN0b3J5IjpbMTU1NDg5MzQ3NywtMTQyMDM4MjQwNywxMD
+Q2Mjc1MDYxLC0xNjQ5ODgzOTY0LDQ1MjYzNzcwMF19
 -->
