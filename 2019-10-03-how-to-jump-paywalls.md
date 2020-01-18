@@ -18,11 +18,11 @@ Z-library contains about five million ebooks and 75 million journal articles, al
 
 Sometimes ebooks on Z-library have been deleted. In that case you can try [Library Genesis](https://www.wikiwand.com/en/Library_Genesis), now [here](http://gen.lib.rus.ec/), to check if they have a copy. [PDF Drive](https://pdfdrive.com/) also has some ebooks.
 
-If an article cannot be found on Z-library then there's [Sci-Hub](https://www.wikiwand.com/en/Sci-Hub/) ([current website](https://sci-hub.tw/)). For live mirrors, see [Where is Sci-Hub now?](https://whereisscihub.now.sh/).
+If an article cannot be found on Z-library then there's [Sci-Hub](https://www.wikiwand.com/en/Sci-Hub) ([current website](https://sci-hub.tw/)). For live mirrors, see [Where is Sci-Hub now?](https://whereisscihub.now.sh/).
 
 For file conversions I usually use [CloudConvert](https://cloudconvert.com). I use Google Drive and Google Books for saving and reading ebooks, but there are many options. Google Books and Amazon's preview feature can provide access to parts of books. And many older books can be found at [the Internet Archive](https://archive.org/).
 
 See also the [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) on Reddit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTM1NzgxOSwtMzU2MjY2NTEwXX0=
+eyJoaXN0b3J5IjpbLTEzNzkwMjA0NDhdfQ==
 -->
