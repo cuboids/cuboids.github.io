@@ -2,7 +2,6 @@
 title: Did the Buddha Exist?
 author: C. van Gog
 layout: post
-icon: fa-skull-crossbones
 
 ---
 
@@ -27,5 +26,5 @@ I will leave it to the reader to make up their own minds; however, in line with 
 
 Shortened URL: <a href="https://cuboids.page.link/buddha">cuboids.page.link/buddha</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjY1MjM0N119
+eyJoaXN0b3J5IjpbLTcyMzM2NDI4MV19
 -->
