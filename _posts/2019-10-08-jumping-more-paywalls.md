@@ -19,7 +19,9 @@ If you didn't get any luck after one or two clicks, just continue. Usually haitu
 
 ### Downloading movies
 Though downloading is possible (use 下载 in your query), one usually needs Xunlei, Baidu Wangpan or other software to download the torrent.  
+
+Image credit: still from <cite>Ex Libris: the New York Public Library</cite>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NDMxNjM0LC0zODgzNDQ1MDQsMTg4OD
-gxMDM4Ml19
+eyJoaXN0b3J5IjpbLTE2NDM1ODkzLDU1NTQzMTYzNCwtMzg4Mz
+Q0NTA0LDE4ODg4MTAzODJdfQ==
 -->
