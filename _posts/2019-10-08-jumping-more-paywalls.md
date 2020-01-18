@@ -4,7 +4,7 @@ author: J. Zhang & C. van Gog
 layout: post
 
 ---
-<span class="image left"><img src="/assets/images/ex-libris.jpg"  alt="A still from Ex Libris: The New York Public Library" style="width:500px;height:600px;"></span>
+<div class="image left"><img src="/assets/images/ex-libris.jpg"  alt="A still from Ex Libris: The New York Public Library" style="width:655px;height:437px;"></div>
 
 In [the previous post](https://cuboids.page.link/paywalls), Chung showed how to find paywalled articles and books online. Here we will share one method (out of many) to avoid movie paywalls. This method assumes the watcher is comfortable with double Chinese-English subtitles; non-Chinese speaking viewers may simply ignore the Chinese subs. The same disclaimers as those in the first paragraph of [How to Jump Paywalls](https://cuboids.page.link/paywalls) apply
 
@@ -20,5 +20,5 @@ If you didn't get any luck after one or two clicks, just continue. Usually haitu
 ### Downloading movies
 Though downloading is possible (use 下载 in your query), one usually needs Xunlei, Baidu Wangpan or other software to download the torrent.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU5NDYxMzMsMTg4ODgxMDM4Ml19
+eyJoaXN0b3J5IjpbLTM4ODM0NDUwNCwxODg4ODEwMzgyXX0=
 -->
