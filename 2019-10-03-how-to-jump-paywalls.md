@@ -18,11 +18,11 @@ Z-library contains about five million ebooks and 75 million journal articles, al
 
 Sometimes ebooks on Z-library have been deleted. In that case you can try [Library Genesis](https://wikiwand.com/en/Library_Genesis/), now [here](https://gen.lib.rus.ec/), to check if they have a copy. [PDF Drive](https://pdfdrive.com/) also has some ebooks.
 
-If an article cannot be found on Z-library then there's [Sci-Hub](https://www.wikiwand.com/en/Sci-Hub/) ([current website](https://sci-hub.tw/)). For mirrors, see [Where is Sci-Hub now?](https://whereisscihub.now.sh/).
+If an article cannot be found on Z-library then there's [Sci-Hub](https://www.wikiwand.com/en/Sci-Hub/) ([current website](https://sci-hub.tw/)). For live mirrors, see [Where is Sci-Hub now?](https://whereisscihub.now.sh/).
 
-For file conversions I usually use <a href="https://cloudconvert.com">CloudConvert</a>. I use Google Drive and Google Books for saving and reading ebooks, but there are many options. Google Books and Amazon's preview feature can provide access to parts of books. And many older books can be found on archive.org.
+For file conversions I usually use [CloudConvert](https://cloudconvert.com). I use Google Drive and Google Books for saving and reading ebooks, but there are many options. Google Books and Amazon's preview feature can provide access to parts of books. And many older books can be found at [the Internet Archive](https://archive.org/).
 
-See also the Piracy Megathread on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
+See also the [Piracy Megathread] on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDIwMjIyMSw4NTc3MjE4NDBdfQ==
+eyJoaXN0b3J5IjpbNzIxMjkyNjg4LDg1NzcyMTg0MF19
 -->
