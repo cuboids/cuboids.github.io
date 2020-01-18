@@ -16,3 +16,6 @@ icon: fa-skull-crossbones
 
 <p>Image source: <a href="https://www.wikiart.org/en/mark-rothko/untitled-yellow-red-and-blue-1953/">Untitled (Yellow, Red, and Blue), Mark Rothko, 1953</a>.<br>
 Shortened URL: <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a>.</p>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkyOTMzOTE1MV19
+-->
