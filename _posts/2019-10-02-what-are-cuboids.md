@@ -5,7 +5,7 @@ author: C. van Gog
 
 ---
 
-<span class="image left"><img src="/assets/images/untitled-yrb.jpg"  alt="Untitled (Yellow, Red, and Blue), a painting by Mark Rothko" style="width:500px;height:600px;" hspace="20"></span>
+<span class="image left"><img src="/assets/images/untitled-yrb.jpg"  alt="Untitled (Yellow, Red, and Blue), a painting by Mark Rothko" style="width:500px;height:600px;"></span>
 
 Cuboids are small and irregularly updated blog posts. The subtitle of luminouscuboids reads "Dhamma and Life": it's about the *dhamma* (*hō* in Japanese, *beop* in Korean, 法—pronounced fǎ—in Mandarin, *dharma* in Sanskrit, *chö* in Tibetan, and *pháp* in Vietnamese) and about "life", my experience and that of others. Cuboids let you believe what you already want to believe and buy whatever you already want to buy: they're free from advertisements and ideological interpolations.
 
