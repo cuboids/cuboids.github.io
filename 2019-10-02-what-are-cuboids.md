@@ -5,7 +5,7 @@ author: C. van Gog
 
 ---
 
-<img src="/assets/images/untitled-yrb.jpg"  alt="Untitled (Yellow, Red, and Blue), a painting by Mark Rothko">
+<img src="/assets/images/untitled-yrb.jpg"  alt="Untitled (Yellow, Red, and Blue), a painting by Mark Rothko" style="width:500px;height:600px;">
 
 ![Untitled (Yellow, Red, and Blue), a painting by Mark Rothko](https://github.com/cuboids/cuboids.github.io/blob/master/assets/images/untitled-yrb.jpg)
 
@@ -18,5 +18,5 @@ author: C. van Gog
 <p>Image source: <a href="https://www.wikiart.org/en/mark-rothko/untitled-yellow-red-and-blue-1953/">Untitled (Yellow, Red, and Blue), Mark Rothko, 1953</a>.<br>
 Shortened URL: <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a>.</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4MDkwMjUzLDExMzg0NDk4MzddfQ==
+eyJoaXN0b3J5IjpbMzMxNTg2NTU1LDExMzg0NDk4MzddfQ==
 -->
