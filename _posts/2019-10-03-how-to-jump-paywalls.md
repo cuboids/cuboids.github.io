@@ -8,7 +8,7 @@ icon: fa-skull-crossbones
 ---
 <span class="image left"><img src="{{ 'assets/images/library.jpg' | relative_url }}" alt="A library" style="width:100%;height:auto;"/></span>
 
-Intellectual property poses interesting questions regarding its ethical justification. (A quick Google search for credible books about copyright yields *Infringement Nation: Copyright 2.0 and You* and *Authors, Users, and Pirates: Copyright Law and Subjectivity</cite> among many others.) This post lists some techniques for finding the full contents of books and journal articles online. However, I do not commit to any value judgements regarding intellectual property; the reader may use these techniques at her discretion, or decide not use them at all. In no case will I, Chung van Gog, or this website, luminouscuboids, be liable for any damages resulting from applying the methods sketched in this cuboid. The title of this blog post is not intended to promote any particular or other kind of behavior or action.
+Intellectual property poses interesting questions regarding its ethical justification. (A quick Google search for credible books about copyright yields *Infringement Nation: Copyright 2.0 and You* and *Authors, Users, and Pirates: Copyright Law and Subjectivity* among many others.) This post lists some techniques for finding the full contents of books and journal articles online. However, I do not commit to any value judgements regarding intellectual property; the reader may use these techniques at her discretion, or decide not use them at all. In no case will I, Chung van Gog, or this website, luminouscuboids, be liable for any damages resulting from applying the methods sketched in this cuboid. The title of this blog post is not intended to promote any particular or other kind of behavior or action.
 
 Some legal resources for finding journal articles can be found here: [Resources for Finding and Accessing Scientific Papers](https://www.sciencebuddies.org/science-fair-projects/competitions/finding-and-accessing-scientific-papers/).
 
@@ -24,7 +24,7 @@ For file conversions I usually use [CloudConvert](https://cloudconvert.com). I u
 
 See also the [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) on Reddit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Nzg5MTk3OCwtMTM3OTAyMDQ0OCwtMT
+eyJoaXN0b3J5IjpbMTEyODYzMjUxMiwtMTM3OTAyMDQ0OCwtMT
 QyMDM4MjQwNywxMDQ2Mjc1MDYxLC0xNjQ5ODgzOTY0LDQ1MjYz
 NzcwMF19
 -->
