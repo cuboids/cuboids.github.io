@@ -22,7 +22,7 @@ If an article cannot be found on Z-library then there's [Sci-Hub](https://www.wi
 
 For file conversions I usually use [CloudConvert](https://cloudconvert.com). I use Google Drive and Google Books for saving and reading ebooks, but there are many options. Google Books and Amazon's preview feature can provide access to parts of books. And many older books can be found at [the Internet Archive](https://archive.org/).
 
-See also the [Piracy Megathread] on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
+See also the [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) on Reddit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxMjkyNjg4LDg1NzcyMTg0MF19
+eyJoaXN0b3J5IjpbLTM1NjI2NjUxMF19
 -->
