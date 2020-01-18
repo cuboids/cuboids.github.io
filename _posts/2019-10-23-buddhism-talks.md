@@ -13,7 +13,7 @@ But what kind of dharma talks does the BSWA stream? It's hard to say. There are 
 src = "https://www.youtube.com/embed/USC5MJVZLy8">
 </iframe>
 
-<span class="image left"><img src="{{ 'assets/images/bswa2.png' | relative_url }}" alt="The BSWA dharma hall" /></span>
+<span class="image left"><img src="{{ 'assets/images/bswa2.png' | relative_url }}" alt="The BSWA dharma hall" style="width:auto;height:auto;"/></span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTQyMzA5LC0yMTMyMDkyNjg0XX0=
+eyJoaXN0b3J5IjpbMTk4MDQ5OTg2NiwtMjEzMjA5MjY4NF19
 -->
