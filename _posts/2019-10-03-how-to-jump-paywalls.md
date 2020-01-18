@@ -6,13 +6,13 @@ hide: true
 icon: fa-skull-crossbones
 
 ---
-<span class="image left"><img src="{{ 'assets/images/library.jpg' | relative_url }}" alt="A library" style="width:1827px;height:1365px;"/></span>
+<span class="image left"><img src="{{ 'assets/images/library.jpg' | relative_url }}" alt="A library" style="width:auto;height:auto;"/></span>
 
 Intellectual property poses interesting questions regarding its ethical justification. (A quick Google search for credible books about copyright yields <cite>Infringement Nation: Copyright 2.0 and You</cite> and <cite>Authors, Users, and Pirates: Copyright Law and Subjectivity</cite> among many others.) This post lists some techniques for finding the full contents of books and journal articles online. However, I do not commit to any value judgements regarding intellectual property; the reader may use these techniques at her discretion, or decide not use them at all. In no case will I, Chung van Gog, or this website, luminouscuboids, be liable for any damages resulting from applying the methods sketched in this cuboid. The title of this blog post is not intended to promote any particular or other kind of behavior or action.
 
 Some legal resources for finding journal articles can be found here: [Resources for Finding and Accessing Scientific Papers](https://www.sciencebuddies.org/science-fair-projects/competitions/finding-and-accessing-scientific-papers).
 
-Sometimes a simple Google search for <pre>[book or article name] filetype:pdf</pre> will work. But usually it will fail.<
+Sometimes a simple Google search for <span>[book or article name] filetype:pdf</span> will work. But usually it will fail.
 
 Z-library contains about five million ebooks and seventy-five million journal articles, all freely accessible. Its URLs include (a) the redirection page <a href="https://z-lib.org">https://z-lib.org</a>, (b) <a href="https://b-ok.org">https://b-ok.org</a> or <a href="https://b-ok.xyz">https://b-ok.xyz</a> for ebooks, and (c) <a href="https://booksc.org/">https://booksc.org/</a> or <a href="https://booksc.xyz/">https://booksc.xyz/</a> for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up <a href="https://th.b-ok2.org/blog/5">ZAlerts</a>, which notify you when a new book becomes available.
 
@@ -24,5 +24,6 @@ For file conversions I usually use <a href="https://cloudconvert.com">CloudConve
 
 See also the Piracy Megathread on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk4ODM5NjQsNDUyNjM3NzAwXX0=
+eyJoaXN0b3J5IjpbLTExNTIwMjI2NzcsLTE2NDk4ODM5NjQsND
+UyNjM3NzAwXX0=
 -->
