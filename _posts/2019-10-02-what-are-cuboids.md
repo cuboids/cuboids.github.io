@@ -5,7 +5,7 @@ author: C. van Gog
 
 ---
 
-<img src="/assets/images/untitled-yrb.jpg"  alt="Untitled (Yellow, Red, and Blue), a painting by Mark Rothko" style="float:left;width:500px;height:600px;">
+<img src="/assets/images/untitled-yrb.jpg"  alt="Untitled (Yellow, Red, and Blue), a painting by Mark Rothko" style="float:left;width:500px;height:600px;" hspace="20">
 
 Cuboids are small and irregularly updated blog posts. The subtitle of luminouscuboids reads "Dhamma and Life": it's about the *dhamma* (*hō* in Japanese, *beop* in Korean, 法—pronounced fǎ—in Mandarin, *dharma* in Sanskrit, *chö* in Tibetan, and *pháp* in Vietnamese) and about "life", my experience and that of others. Cuboids let you believe what you already want to believe and buy whatever you already want to buy: they're free from advertisements and ideological interpolations.
 
@@ -13,10 +13,7 @@ I tip my hat to Mark Rothko, who's oeuvre inspired the notion of a "luminous cub
 
 Image source: <a href="https://www.wikiart.org/en/mark-rothko/untitled-yellow-red-and-blue-1953/"><cite>Untitled (Yellow, Red, and Blue)</cite>, Mark Rothko, 1953</a>.<br>
 Shortened URL: <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cuboids</a>
-
-Another URL:
-{%  post_url  2019-10-02-what-are-cuboids  %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk0MDY5NDUsMTEzODQ0OTgzNyw3Nj
-c1ODAyMjAsMTkyOTMzOTE1MV19
+eyJoaXN0b3J5IjpbLTUxNDgwODY4NywtMTMwOTQwNjk0NSwxMT
+M4NDQ5ODM3LDc2NzU4MDIyMCwxOTI5MzM5MTUxXX0=
 -->
