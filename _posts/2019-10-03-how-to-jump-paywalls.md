@@ -10,7 +10,7 @@ icon: fa-skull-crossbones
 
 Intellectual property poses interesting questions regarding its ethical justification. (A quick Google search for credible books about copyright yields <cite>Infringement Nation: Copyright 2.0 and You</cite> and <cite>Authors, Users, and Pirates: Copyright Law and Subjectivity</cite> among many others.) This post lists some techniques for finding the full contents of books and journal articles online. However, I do not commit to any value judgements regarding intellectual property; the reader may use these techniques at her discretion, or decide not use them at all. In no case will I, Chung van Gog, or this website, luminouscuboids, be liable for any damages resulting from applying the methods sketched in this cuboid. The title of this blog post is not intended to promote any particular or other kind of behavior or action.
 
-Some legal resources for finding journal articles can be found here: <a href="https://www.sciencebuddies.org/science-fair-projects/competitions/finding-and-accessing-scientific-papers">sciencebuddies.org/science-fair-projects/competitions/finding-and-accessing-scientific-papers</a>.
+Some legal resources for finding journal articles can be found here: [Resources for Finding and Accessing Scientific Papers](https://www.sciencebuddies.org/science-fair-projects/competitions/finding-and-accessing-scientific-papers).
 
 Sometimes a simple Google search for <pre>[book or article name] filetype:pdf</pre> will work. But usually it will fail.<
 
@@ -24,5 +24,5 @@ For file conversions I usually use <a href="https://cloudconvert.com">CloudConve
 
 See also the Piracy Megathread on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODAyMDQ5MV19
+eyJoaXN0b3J5IjpbNDUyNjM3NzAwXX0=
 -->
