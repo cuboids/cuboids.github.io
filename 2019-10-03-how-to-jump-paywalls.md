@@ -14,9 +14,9 @@ Some legal resources for finding journal articles can be found here: [Resources 
 
 Sometimes a simple Google search for <code><strong>[book or article name] filetype:pdf</strong></code> will work. But usually it will fail.
 
-Z-library contains about five million ebooks and 75 million journal articles, all freely accessible. Its URLs include (a) the redirection page [Z-Library](https://z-lib.org), (b) [Electronic Library (1a)](https://b-ok.org) or [Electronic Library (1b)](https://b-ok.xyz) for ebooks, and (&#99;) [Electronic Library (2a)](https://booksc.org) or [Electronic Library (2b)](https://booksc.xyz) for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up [ZAlerts](https://th.b-ok2.org/blog/5), which notiy you when a new book becomes available.
+Z-library contains about five million ebooks and 75 million journal articles, all freely accessible. Its URLs include (a) the redirection page [Z-Library](https://z-lib.org), (b) [here](https://b-ok.org) or [here](https://b-ok.xyz) for ebooks, and (&#99;) [here](https://booksc.org) or [Electronic Library (2b)](https://booksc.xyz) for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up [ZAlerts](https://th.b-ok2.org/blog/5), which notiy you when a new book becomes available.
 
-Sometimes ebooks on Z-library have been deleted. In that case you can try [Library Genesis](https://wikiwand.com/en/Library_Genesis), now at [Library Genesis](https://gen.lib.rus.ec</a>, to check if they have a copy. <a href="https://pdfdrive.com">PDF Drive</a> also has some ebooks.
+Sometimes ebooks on Z-library have been deleted. In that case you can try [Library Genesis](https://wikiwand.com/en/Library_Genesis), now [here](https://gen.lib.rus.ec), to check if they have a copy. [PDF Drive](https://pdfdrive.com) also has some ebooks.
 
 If an article cannot be found on Z-library then there's <a href="https://www.wikiwand.com/en/Sci-Hub">Sci-Hub</a>, now at <a href="https://sci-hub.tw">https://sci-hub.tw</a>. For current mirrors, see <a href="https://whereisscihub.now.sh/">https://whereisscihub.now.sh/</a>.
 
@@ -24,5 +24,5 @@ For file conversions I usually use <a href="https://cloudconvert.com">CloudConve
 
 See also the Piracy Megathread on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTMxNjY0NDEsODU3NzIxODQwXX0=
+eyJoaXN0b3J5IjpbMTUyNDM1MTI4Miw4NTc3MjE4NDBdfQ==
 -->
