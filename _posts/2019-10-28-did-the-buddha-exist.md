@@ -5,7 +5,7 @@ layout: post
 
 ---
 
-<span class="image left"><img src="{{ 'assets/images/death-of-buddha.jpg' | relative_url }}" alt="The Buddha’s death and passing into parinibbāna at Kusinara. Burma, 19th century." style="width:95%;height:auto;" /></span>
+<span class="image left"><img src="{{ 'assets/images/death-of-buddha.jpg' | relative_url }}" alt="The Buddha’s death and passing into parinibbāna at Kusinara. Burma, 19th century." style="width:50%;height:auto;" /></span>
 
 Source of the image above: <a href="https://www.bl.uk/sacred-texts/articles/the-buddha-and-buddhist-sacred-texts">"The Buddha and Buddhist Sacred Texts"</a>&mdash;check it out! For a variation, see <a href="https://cuboids.page.link/hallucination">cuboids.page.link/hallucination</a>. 
 
@@ -26,5 +26,5 @@ I will leave it to the reader to make up their own minds; however, in line with 
 
 Shortened URL: <a href="https://cuboids.page.link/buddha">cuboids.page.link/buddha</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzM2NDI4MV19
+eyJoaXN0b3J5IjpbMTc2NTU2ODE5OCwtNzIzMzY0MjgxXX0=
 -->
