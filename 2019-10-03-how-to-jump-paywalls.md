@@ -16,7 +16,7 @@ Sometimes a simple Google search for <code><strong>[book or article name] filety
 
 Z-library contains about five million ebooks and 75 million journal articles, all freely accessible. Its URLs include (a) the redirection page [Z-Library](https://z-lib.org/), (b) [Electronic Library (books)](https://b-ok.org) ([mirror](https://b-ok.xyz/)) for ebooks, and (&#99;) [Electronic Library (articles)](https://booksc.org/) ([mirror](https://booksc.xyz/)) for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up [ZAlerts](https://th.b-ok2.org/blog/5/), which notiy you when a new book becomes available.
 
-Sometimes ebooks on Z-library have been deleted. In that case you can try [Library Genesis](https://wikiwand.com/en/Library_Genesis/), now [here](https://gen.lib.rus.ec/), to check if they have a copy. [PDF Drive](https://pdfdrive.com/) also has some ebooks.
+Sometimes ebooks on Z-library have been deleted. In that case you can try [Library Genesis]([https://www.wikiwand.com/en/Library_Genesis/](https://www.wikiwand.com/en/Library_Genesis)), now [here](https://gen.lib.rus.ec/), to check if they have a copy. [PDF Drive](https://pdfdrive.com/) also has some ebooks.
 
 If an article cannot be found on Z-library then there's [Sci-Hub](https://www.wikiwand.com/en/Sci-Hub/) ([current website](https://sci-hub.tw/)). For live mirrors, see [Where is Sci-Hub now?](https://whereisscihub.now.sh/).
 
@@ -24,5 +24,5 @@ For file conversions I usually use [CloudConvert](https://cloudconvert.com). I u
 
 See also the [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) on Reddit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjI2NjUxMF19
+eyJoaXN0b3J5IjpbLTE0NDI4NTg5NzYsLTM1NjI2NjUxMF19
 -->
