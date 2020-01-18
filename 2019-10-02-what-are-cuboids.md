@@ -17,6 +17,5 @@ Shortened URL: <a href="https://cuboids.page.link/cuboids">cuboids.page.link/cub
 Another URL:
 {%  post_url  2019-10-02-what-are-cuboids  %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk0MDY5NDUsLTE3MTgwMzIzMjJdfQ
-==
+eyJoaXN0b3J5IjpbLTEzMDk0MDY5NDVdfQ==
 -->
