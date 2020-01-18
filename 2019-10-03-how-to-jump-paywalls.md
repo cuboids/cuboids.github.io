@@ -6,7 +6,7 @@ hide: true
 icon: fa-skull-crossbones
 
 ---
-<span class="image left"><img src="{{ 'assets/images/library.jpg' | relative_url }}" alt="A library" style="width:auto;height:auto;"/></span>
+<span class="image left"><img src="{{ 'assets/images/library.jpg' | relative_url }}" alt="A library" style="width:100%;height:auto;"/></span>
 
 Intellectual property poses interesting questions regarding its ethical justification. (A quick Google search for credible books about copyright yields <cite>Infringement Nation: Copyright 2.0 and You</cite> and <cite>Authors, Users, and Pirates: Copyright Law and Subjectivity</cite> among many others.) This post lists some techniques for finding the full contents of books and journal articles online. However, I do not commit to any value judgements regarding intellectual property; the reader may use these techniques at her discretion, or decide not use them at all. In no case will I, Chung van Gog, or this website, luminouscuboids, be liable for any damages resulting from applying the methods sketched in this cuboid. The title of this blog post is not intended to promote any particular or other kind of behavior or action.
 
@@ -24,6 +24,5 @@ For file conversions I usually use <a href="https://cloudconvert.com">CloudConve
 
 See also the Piracy Megathread on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM4MTg2MDgsLTM4NjI3OTgwMywtNT
-M2MjM0MDQzXX0=
+eyJoaXN0b3J5IjpbMTA0NjI3NTA2MV19
 -->
