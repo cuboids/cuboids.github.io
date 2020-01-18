@@ -14,7 +14,7 @@ Some legal resources for finding journal articles can be found here: [Resources 
 
 Sometimes a simple Google search for <code><strong>[book or article name] filetype:pdf</strong></code> will work. But usually it will fail.
 
-Z-library contains about five million ebooks and 75 million journal articles, all freely accessible. Its URLs include (a) the redirection page [Z-Library](https://z-lib.org), (b) [Electronic Library (1)](https://b-ok.org) or [Electronic Library (2)](https://b-ok.xyz) for ebooks, and 
+Z-library contains about five million ebooks and 75 million journal articles, all freely accessible. Its URLs include (a) the redirection page [Z-Library](https://z-lib.org), (b) [Electronic Library (1a)](https://b-ok.org) or [Electronic Library (1b)](https://b-ok.xyz) for ebooks, and (&#99;) 
 
 Z-library contains about five million ebooks and seventy-five million journal articles, all freely accessible. Its URLs include (a) the redirection page <a href="https://z-lib.org">https://z-lib.org</a>, (b) <a href="https://b-ok.org">https://b-ok.org</a> or <a href="https://b-ok.xyz">https://b-ok.xyz</a> for ebooks, and (c) <a href="https://booksc.org/">https://booksc.org/</a> or <a href="https://booksc.xyz/">https://booksc.xyz/</a> for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up <a href="https://th.b-ok2.org/blog/5">ZAlerts</a>, which notify you when a new book becomes available.
 
@@ -26,6 +26,6 @@ For file conversions I usually use <a href="https://cloudconvert.com">CloudConve
 
 See also the Piracy Megathread on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwNjI5NDEwLC0xNDIwMzgyNDA3LDEwND
-YyNzUwNjEsLTE2NDk4ODM5NjQsNDUyNjM3NzAwXX0=
+eyJoaXN0b3J5IjpbLTk2Mzk3NDc1NywtMTQyMDM4MjQwNywxMD
+Q2Mjc1MDYxLC0xNjQ5ODgzOTY0LDQ1MjYzNzcwMF19
 -->
