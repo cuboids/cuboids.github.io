@@ -19,3 +19,6 @@ icon: fa-skull-crossbones
 
 <h3>Downloading movies</h3>
 <p>Though downloading is possible (use 下载 in your query), one usually needs Xunlei, Baidu Wangpan or other software to download the torrent.</p>  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MDI1MTIyNTldfQ==
+-->
