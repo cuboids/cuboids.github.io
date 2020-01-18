@@ -14,15 +14,15 @@ Some legal resources for finding journal articles can be found here: [Resources 
 
 Sometimes a simple Google search for <code><strong>[book or article name] filetype:pdf</strong></code> will work. But usually it will fail.
 
-Z-library contains about five million ebooks and 75 million journal articles, all freely accessible. Its URLs include (a) the redirection page [Z-Library](https://z-lib.org), (b) [the Electronic Library (1)](https://b-ok.org) ([alternative link](https://b-ok.xyz)) for ebooks, and (&#99;) [the Electronic Library (2)](https://booksc.org) ([alternative li](https://booksc.xyz) for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up [ZAlerts](https://th.b-ok2.org/blog/5), which notiy you when a new book becomes available.
+Z-library contains about five million ebooks and 75 million journal articles, all freely accessible. Its URLs include (a) the redirection page [Z-Library](https://z-lib.org), (b) [Electronic Library (books)](https://b-ok.org) ([mirror](https://b-ok.xyz)) for ebooks, and (&#99;) [Electronic Library (articles)](https://booksc.org) ([mirror](https://booksc.xyz)) for articles. A free account allows you to see your past downloads, save books, get personal recommendations, and set up [ZAlerts](https://th.b-ok2.org/blog/5), which notiy you when a new book becomes available.
 
 Sometimes ebooks on Z-library have been deleted. In that case you can try [Library Genesis](https://wikiwand.com/en/Library_Genesis), now [here](https://gen.lib.rus.ec), to check if they have a copy. [PDF Drive](https://pdfdrive.com) also has some ebooks.
 
-If an article cannot be found on Z-library then there's <a href="https://www.wikiwand.com/en/Sci-Hub">Sci-Hub</a>, now at <a href="https://sci-hub.tw">https://sci-hub.tw</a>. For current mirrors, see <a href="https://whereisscihub.now.sh/">https://whereisscihub.now.sh/</a>.
+If an article cannot be found on Z-library then there's [Sci-Hub](https://www.wikiwand.com/en/Sci-Hub), now at <a href="https://sci-hub.tw">https://sci-hub.tw</a>. For current mirrors, see <a href="https://whereisscihub.now.sh/">https://whereisscihub.now.sh/</a>.
 
 For file conversions I usually use <a href="https://cloudconvert.com">CloudConvert</a>. I use Google Drive and Google Books for saving and reading ebooks, but there are many options. Google Books and Amazon's preview feature can provide access to parts of books. And many older books can be found on archive.org.
 
 See also the Piracy Megathread on Reddit: <a href="https://www.reddit.com/r/Piracy/wiki/megathread">reddit.com/r/Piracy/wiki/megathread</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzQxODg0Myw4NTc3MjE4NDBdfQ==
+eyJoaXN0b3J5IjpbMzQ2MDc4NzkxLDg1NzcyMTg0MF19
 -->
