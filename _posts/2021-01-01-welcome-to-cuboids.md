@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Welcome to luminousuboids!
 author: C. van Gog
-layout: post
-icon: fa-skull-crossbones
+
 ---
+
 <span class="image left"><img src="{{ 'assets/images/deepgalaxy.jpg' | relative_url }}" alt="" /></span>
 
 <p>Welcome to Chung van Gog's personal website. Below are some links to help you get started!</p>
@@ -15,5 +16,6 @@ icon: fa-skull-crossbones
   <li>Illuminated Sutta Discovery: <a href="https://cuboids.page.link/isd">cuboids.page.link/isd</a>
   </li> </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODYzMTk2NCwtMjA1NTk3MTMzMF19
+eyJoaXN0b3J5IjpbMTMzNTk1NDgxOCwxNjk4NjMxOTY0LC0yMD
+U1OTcxMzMwXX0=
 -->
