@@ -11,7 +11,7 @@ Source of the image above: <a href="https://www.bl.uk/sacred-texts/articles/the-
 
 How can we know if the Buddha existed as a historical person? I think we should consult the field of Buddhist Studies. It turns out that there has recently been some debate about the matter in this field. David Drewes argued that "no basis for treating the Buddha as a historical figure has yet been identified" (Drewes 2017, 1). However, I'm going to be bold here, and follow Bronkhorst (2019) in saying that Drewes's arguments have been refuted by Wynne (2019) and von Hinüber (2019) (the latter is cited in Dhammadinnā 2018, 303n55). Cf. also Levman (2019).
 
-In line with the articles by Wynne, Levman, and von Hinüber, and considering Wynne (2005) and Sujato & Brahmali (2015), in further cuboids I will assume that (<i>i</i>) the Buddha was a historical person and (<i>ii</i>) it is possible to know about his life by critically examining the early Buddhist texts (Sujato & Brahmali 2015).
+In line with the articles by Wynne, Levman, and von Hinüber, and considering Wynne (2005) and Sujato & Brahmali (2015), in further cuboids I will assume that (<i>i</i>) the Buddha was a historical person and (<i>ii</i>) it is possible to know about his life and teachings by critically examining the early Buddhist texts (Sujato & Brahmali 2015).
 
 ### References
 
@@ -26,6 +26,6 @@ In line with the articles by Wynne, Levman, and von Hinüber, and considering Wy
 
 Shortened URL: <a href="https://cuboids.page.link/buddha">cuboids.page.link/buddha</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjM1MDg3OTIsMTc2NTU2ODE5OCwtNz
-IzMzY0MjgxXX0=
+eyJoaXN0b3J5IjpbMTc4MjQ0MDU4NywtMTAyMzUwODc5MiwxNz
+Y1NTY4MTk4LC03MjMzNjQyODFdfQ==
 -->
