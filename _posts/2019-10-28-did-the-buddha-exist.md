@@ -15,7 +15,7 @@ In line with the articles by Wynne, Levman, and von Hinüber, and considering Wy
 
 ### References
 
-* Bronkhorst, Johannes. 2019. "What can we learn from Musīla and Nārada?". *Indian International Journal of Buddhist Studies.*
+* Bronkhorst, Johannes. 2019. "What can we learn from Musīla and Nārada?". *Indian International Journal of Buddhist Studies.* 20: 1-19.
 * Dhammadinnā, Bhikkhunī. 2018. "When Womanhood Matters." <i>Religions of South Asia</i> 12 (3): 274-313. <a href="https://doi.org/10.1558/rosa.39890">https://doi.org/10.1558/rosa.39890</a>.
 * Drewes, David. 2017. "The Idea of the Historical Buddha." <i>Journal of the International Association of Buddhist Studies</i> 40: 1-25. <a href="https://doi.org/10.2143/JIABS.40.0.3269003">https://doi.org/10.2143/JIABS.40.0.3269003</a>.
 * Gombrich, Richard F. 2009. <i>What the Buddha thought</i>. London: Equinox.</li>
@@ -27,6 +27,6 @@ In line with the articles by Wynne, Levman, and von Hinüber, and considering Wy
 
 Shortened URL: <a href="https://cuboids.page.link/buddha">cuboids.page.link/buddha</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQzMzk1NzUsMTc2NTU2ODE5OCwtNz
-IzMzY0MjgxXX0=
+eyJoaXN0b3J5IjpbMTQzNzMyODMsMTc2NTU2ODE5OCwtNzIzMz
+Y0MjgxXX0=
 -->
