@@ -11,10 +11,11 @@ Source of the image above: <a href="https://www.bl.uk/sacred-texts/articles/the-
 
 How can we know if the Buddha existed as a historical person? I think we should consult the field of Buddhist Studies. It turns out that there has recently been some debate about the matter in this field. David Drewes argued that "no basis for treating the Buddha as a historical figure has yet been identified" (Drewes 2017, 1). However, I'm going to be bold here, and follow Bronkhorst (2019) in arguing that Drewes's arguments have been refuted by Wynne (2019) and von Hinüber (forthcoming), cited in Dhammadinnā (2018, 303n55). Cf. also Levman (2019).
 
-I will leave it to the reader to make up their own minds; however, in line with the articles by Wynne, Levman, and von Hinüber, and considering Wynne (2005) and Sujato & Brahmali (2015), in further cuboids I will assume that (<i>i</i>) the Buddha was a historical person and (<i>ii</i>) it is possible to know about his life by critically examining the early Buddhist texts (Sujato & Brahmali 2015).
+In line with the articles by Wynne, Levman, and von Hinüber, and considering Wynne (2005) and Sujato & Brahmali (2015), in further cuboids I will assume that (<i>i</i>) the Buddha was a historical person and (<i>ii</i>) it is possible to know about his life by critically examining the early Buddhist texts (Sujato & Brahmali 2015).
 
 ### References
 
+* Bronkhorst, Johannes. 2019. "What can we learn from Musīla and Nārada?". *Indian 
 * Dhammadinnā, Bhikkhunī. 2018. "When Womanhood Matters." <i>Religions of South Asia</i> 12 (3): 274-313. <a href="https://doi.org/10.1558/rosa.39890">https://doi.org/10.1558/rosa.39890</a>.
 * Drewes, David. 2017. "The Idea of the Historical Buddha." <i>Journal of the International Association of Buddhist Studies</i> 40: 1-25. <a href="https://doi.org/10.2143/JIABS.40.0.3269003">https://doi.org/10.2143/JIABS.40.0.3269003</a>.
 * Gombrich, Richard F. 2009. <i>What the Buddha thought</i>. London: Equinox.</li>
@@ -26,6 +27,6 @@ I will leave it to the reader to make up their own minds; however, in line with 
 
 Shortened URL: <a href="https://cuboids.page.link/buddha">cuboids.page.link/buddha</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NzA1OTM4LDE3NjU1NjgxOTgsLTcyMz
+eyJoaXN0b3J5IjpbODg3NjIxOTQ5LDE3NjU1NjgxOTgsLTcyMz
 M2NDI4MV19
 -->
