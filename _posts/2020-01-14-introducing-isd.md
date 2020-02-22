@@ -22,3 +22,6 @@ The term sutta in Pali or sūtra in Sanskrit is used quite liberally in the Budd
 </ol></p>
   
 <p>Short URL: <a href="https://cuboids.page.link/isd">cuboids.page.link/isd</a></p>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5MDYxMjk0NjhdfQ==
+-->
