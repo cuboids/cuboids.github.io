@@ -13,7 +13,7 @@ The most important body of sacred scripture in Buddhism is the Suttapiṭaka, th
 <br>
 The term sutta in Pali or sūtra in Sanskrit is used quite liberally in the Buddhist traditions and may include a range of later texts. However, we only consider the earliest of these, which are the texts included in the Suttapiṭaka of the Pali canon, and the various corresponding collections and texts in other languages.<br>
 <br>
-Read more about the discourses. 
+[Read more about the discourses](https://suttacentral.net/discourses). 
 </blockquote></p>
 
 <h3>About this series</h3>
@@ -25,5 +25,5 @@ Read more about the discourses.
   
 <p>Short URL: <a href="https://cuboids.page.link/isd">cuboids.page.link/isd</a></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDk0MTE0MV19
+eyJoaXN0b3J5IjpbMTQ2MDg1ODgwM119
 -->
