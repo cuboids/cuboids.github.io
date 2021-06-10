@@ -1,8 +1,8 @@
 ---
 
-layout: post<br>
-title: A New Beginning!<br>
-author: C. van Gog<br>
+layout: post
+title: A New Beginning!
+author: C. van Gog
 hide: True
 
 
