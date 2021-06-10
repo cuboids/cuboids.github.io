@@ -1,14 +1,11 @@
 ---
-
+layout: post
+title: A New Beginning!
+author: C. van Gog
+hide: True
 
 ---
 
-<hr>
-<p>layout: post<br>
-title: A New Beginning!<br>
-author: C. van Gog<br>
-hide: True</p>
-<hr>
 <p>It is time for a new beginning. Let’s start with a single book: <i><a href="https://book4you.org/book/12636258/55f572">Science on a Mission</a> (2021)</i>.</p>
 <blockquote>
 <p>What difference does it make who pays for science?</p>
