@@ -1,11 +1,14 @@
 ---
-layout: post
-title: A New Beginning!
-author: C. van Gog
-hide: True
+
 
 ---
 
+<hr>
+<p>layout: post<br>
+title: A New Beginning!<br>
+author: C. van Gog<br>
+hide: True</p>
+<hr>
 <p>It is time for a new beginning. Let’s start with a single book: <i><a href="https://book4you.org/book/12636258/55f572">Science on a Mission</a> (2021)</i>.</p>
 <blockquote>
 <p>What difference does it make who pays for science?</p>
@@ -26,8 +29,10 @@ hide: True
 <p>In the Egyptian belief system, the pharaohs and in later times all blessed dead embarked on this same “night-sea journey” after death, ultimately becoming one with Re and living forever. The vision of the afterlife elaborated in the Amduat, dating from around 1500 B.C.E., has been influential for millennia, providing the model for an entire genre of Egyptian literature, the Books of the Afterlife, which in turn endured into the Greco-Roman era. Its themes and images persisted into gnostic and alchemical texts and made their way into early Christian portrayals of the beyond.</p>
 <p>In The Sungod’s Journey through the Netherworld, Andreas Schweizer guides the reader through the Amduat, offering a psychological interpretation of its principal textual and iconographic elements. He is concerned with themes that run deep and wide in human experience, drawing on Jungian archetypes to find similar expression in many cultures worldwide: sleep as death; resurrection as reawakening or rebirth; and salvation or redemption, whether from original sin (as for Christians) or from the total annihilation of death (as for the ancient Egyptians).</p>
 </blockquote>
-<p>Finally, the Department of Near-Eastern Languages and Civilizations (NELC) at Harvard University has amazing resources, as usual. <a href="https://nelc.fas.harvard.edu/ancient-near-eastern-studies-0">Here</a> is their page on Egyptology at NELC, and <a href="https://hmane.harvard.edu/lecture-videos">here is a rich series of lectures</a> by the Harvard Museum of the Ancient Near East on a diverse range of Egyptological topics.</p>
+<p>As usual, the Department of Near-Eastern Languages and Civilizations (NELC) at Harvard University has amazing resources. <a href="https://nelc.fas.harvard.edu/ancient-near-eastern-studies-0">Here</a> is their page on Egyptology at NELC, and <a href="https://hmane.harvard.edu/lecture-videos">here is a rich series of lectures</a> by the Harvard Museum of the Ancient Near East on a diverse range of Egyptological topics.</p>
 <blockquote>
 <p>The Harvard Museum of the Ancient Near East offers a free annual lecture series open to the public. This series showcases new research presented by world-renowned scholars of the ancient world.</p>
 </blockquote>
+<p>Finally, why not listen to “The Rabbit That Hunts Tigers”? The connection with Egyptology remains to be established… Oh well :)</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oQq3Jwz0bDQ" title="YouTube video player" allowfullscreen=""></iframe>
 
