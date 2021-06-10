@@ -1,11 +1,10 @@
 ---
 
-<hr>
-<p>layout: post<br>
+layout: post<br>
 title: A New Beginning!<br>
 author: C. van Gog<br>
-hide: True</p>
-<hr>
+hide: True
+
 
 ---
 
