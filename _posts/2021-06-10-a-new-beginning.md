@@ -6,7 +6,7 @@ hide: True
 
 ---
 
-<p>It is time for a new beginning. Let’s start with a single book: <i><a href="https://book4you.org/book/12636258/55f572">Science on a Mission</a> (2021)</i>.</p>
+<p>It is time for a new beginning. Let’s start with a book: <i><a href="https://book4you.org/book/12636258/55f572">Science on a Mission</a> (2021)</i>.</p>
 <blockquote>
 <p>What difference does it make who pays for science?</p>
 <p>Some might say none. If scientists seek to discover fundamental truths about the world, and they do so in an objective manner using well-established methods, then how could it matter who’s footing the bill? History, however, suggests otherwise. In science, as elsewhere, money is power. Tracing the recent history of oceanography, Naomi Oreskes discloses dramatic changes in American ocean science since the Cold War, uncovering how and why it changed. Much of it has to do with who pays.</p>
@@ -30,6 +30,3 @@ hide: True
 <blockquote>
 <p>The Harvard Museum of the Ancient Near East offers a free annual lecture series open to the public. This series showcases new research presented by world-renowned scholars of the ancient world.</p>
 </blockquote>
-<p>Finally, why not listen to “The Rabbit That Hunts Tigers”? The connection with Egyptology remains to be established… Oh well :)</p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oQq3Jwz0bDQ" title="YouTube video player" allowfullscreen=""></iframe>
-
